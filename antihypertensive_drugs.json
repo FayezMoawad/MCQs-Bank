@@ -1045,6 +1045,313 @@
     "options": ["β-blocker", "ACE inhibitor", "Dihydropyridine CCB (IV)", "ARB", "Diuretic"],
     "answer": "C",
     "rationale": "Clevidipine is an IV dihydropyridine calcium channel blocker used for rapid BP control."
+  },
+  {
+    "id": 131,
+    "question": "Which diuretic acts primarily on the thick ascending limb of the loop of Henle?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Spironolactone", "Acetazolamide"],
+    "answer": "B",
+    "rationale": "Furosemide is a loop diuretic that inhibits the Na⁺-K⁺-2Cl⁻ cotransporter in the thick ascending limb."
+  },
+  {
+    "id": 132,
+    "question": "Which diuretic is potassium-sparing and acts as an aldosterone antagonist?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Mannitol"],
+    "answer": "C",
+    "rationale": "Spironolactone blocks aldosterone receptors in the collecting duct, reducing potassium loss."
+  },
+  {
+    "id": 133,
+    "question": "Thiazide diuretics primarily act on which part of the nephron?",
+    "options": ["Proximal tubule", "Distal convoluted tubule", "Loop of Henle", "Collecting duct"],
+    "answer": "B",
+    "rationale": "Thiazides inhibit the Na⁺/Cl⁻ cotransporter in the distal convoluted tubule."
+  },
+  {
+    "id": 134,
+    "question": "Which adverse effect is most commonly associated with loop diuretics?",
+    "options": ["Hyperkalemia", "Ototoxicity", "Hypercalcemia", "Metabolic alkalosis"],
+    "answer": "B",
+    "rationale": "Loop diuretics like furosemide can cause reversible or irreversible hearing damage at high doses."
+  },
+  {
+    "id": 135,
+    "question": "Which diuretic is commonly used to reduce intracranial pressure?",
+    "options": ["Mannitol", "Indapamide", "Amiloride", "Chlorthalidone"],
+    "answer": "A",
+    "rationale": "Mannitol is an osmotic diuretic that reduces cerebral edema and intracranial pressure."
+  },
+  {
+    "id": 136,
+    "question": "Which diuretic increases serum calcium levels?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Mannitol"],
+    "answer": "B",
+    "rationale": "Thiazides decrease urinary calcium excretion, raising serum calcium."
+  },
+  {
+    "id": 137,
+    "question": "Which diuretic is most appropriate in patients with heart failure to reduce mortality?",
+    "options": ["Mannitol", "Acetazolamide", "Spironolactone", "Indapamide"],
+    "answer": "C",
+    "rationale": "Spironolactone improves survival in heart failure by blocking aldosterone."
+  },
+  {
+    "id": 138,
+    "question": "Which electrolyte abnormality is most likely with hydrochlorothiazide?",
+    "options": ["Hyperkalemia", "Hypokalemia", "Hypernatremia", "Hypermagnesemia"],
+    "answer": "B",
+    "rationale": "Thiazides commonly cause hypokalemia due to increased potassium excretion."
+  },
+  {
+    "id": 139,
+    "question": "Which diuretic inhibits carbonic anhydrase?",
+    "options": ["Furosemide", "Acetazolamide", "Spironolactone", "Mannitol"],
+    "answer": "B",
+    "rationale": "Acetazolamide blocks carbonic anhydrase in the proximal tubule."
+  },
+  {
+    "id": 140,
+    "question": "Which diuretic is contraindicated in severe renal failure?",
+    "options": ["Mannitol", "Furosemide", "Spironolactone", "Hydrochlorothiazide"],
+    "answer": "A",
+    "rationale": "Mannitol requires adequate renal function to be effective and safe."
+  },
+  {
+    "id": 141,
+    "question": "Which diuretic is most effective in acute pulmonary edema?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Amiloride", "Acetazolamide"],
+    "answer": "B",
+    "rationale": "IV furosemide rapidly reduces preload and pulmonary congestion."
+  },
+  {
+    "id": 142,
+    "question": "Which combination drug contains furosemide and spironolactone?",
+    "options": ["Moduretic", "Lasilactone", "Natrilix", "Diamox"],
+    "answer": "B",
+    "rationale": "Lasilactone combines furosemide (loop) and spironolactone (K-sparing)."
+  },
+  {
+    "id": 143,
+    "question": "Which diuretic is classified as thiazide-like?",
+    "options": ["Indapamide", "Furosemide", "Mannitol", "Amiloride"],
+    "answer": "A",
+    "rationale": "Indapamide has thiazide-like properties with additional vasodilatory effects."
+  },
+  {
+    "id": 144,
+    "question": "Which side effect is commonly seen with spironolactone?",
+    "options": ["Gynecomastia", "Ototoxicity", "Hypocalcemia", "Hypernatremia"],
+    "answer": "A",
+    "rationale": "Spironolactone can block androgen receptors, causing gynecomastia."
+  },
+  {
+    "id": 145,
+    "question": "Which diuretic is useful in metabolic alkalosis?",
+    "options": ["Acetazolamide", "Furosemide", "Hydrochlorothiazide", "Mannitol"],
+    "answer": "A",
+    "rationale": "Acetazolamide causes bicarbonate loss, helping correct metabolic alkalosis."
+  },
+  {
+    "id": 146,
+    "question": "Which diuretic spares potassium by blocking ENaC channels?",
+    "options": ["Amiloride", "Furosemide", "Indapamide", "Mannitol"],
+    "answer": "A",
+    "rationale": "Amiloride blocks epithelial sodium channels in the collecting duct."
+  },
+  {
+    "id": 147,
+    "question": "Which diuretic is most likely to cause hypomagnesemia?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Spironolactone", "Acetazolamide"],
+    "answer": "B",
+    "rationale": "Loop diuretics increase magnesium excretion."
+  },
+  {
+    "id": 148,
+    "question": "Which diuretic is preferred in hypertension with osteoporosis?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Mannitol", "Acetazolamide"],
+    "answer": "B",
+    "rationale": "Thiazides reduce calcium loss and may protect bone density."
+  },
+  {
+    "id": 149,
+    "question": "Which diuretic is administered intravenously in hospital settings for acute brain edema?",
+    "options": ["Mannitol", "Indapamide", "Spironolactone", "Hydrochlorothiazide"],
+    "answer": "A",
+    "rationale": "IV mannitol is used to rapidly reduce intracranial pressure."
+  },
+  {
+    "id": 150,
+    "question": "Which diuretic is least effective when GFR is below 30 mL/min?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Mannitol"],
+    "answer": "B",
+    "rationale": "Thiazides lose efficacy in advanced renal impairment."
+  },
+  {
+    "id": 151,
+    "question": "In Egypt, the trade name 'Lasix' corresponds to which active diuretic?",
+    "options": ["Torsemide", "Furosemide", "Indapamide", "Chlorthalidone"],
+    "answer": "B",
+    "rationale": "Lasix is the brand name of furosemide, a loop diuretic acting on the thick ascending limb."
+  },
+  {
+    "id": 152,
+    "question": "The Egyptian product 'Aldactone' is best classified as:",
+    "options": ["Loop diuretic", "Thiazide", "Potassium-sparing MRA", "Osmotic diuretic"],
+    "answer": "C",
+    "rationale": "Aldactone contains spironolactone, an aldosterone receptor antagonist."
+  },
+  {
+    "id": 153,
+    "question": "Which mechanism best describes the action of 'Natrilix SR' used in Egypt?",
+    "options": ["Blocks ENaC in collecting duct", "Inhibits Na-Cl cotransporter in DCT", "Blocks NKCC2 in loop of Henle", "Inhibits carbonic anhydrase"],
+    "answer": "B",
+    "rationale": "Natrilix SR contains indapamide, a thiazide-like diuretic acting in the distal convoluted tubule."
+  },
+  {
+    "id": 154,
+    "question": "The trade name 'Hygroton' in Egypt refers to:",
+    "options": ["Hydrochlorothiazide", "Chlorthalidone", "Indapamide", "Torsemide"],
+    "answer": "B",
+    "rationale": "Hygroton is a brand of chlorthalidone, a long-acting thiazide-like diuretic."
+  },
+  {
+    "id": 155,
+    "question": "Which statement is correct about 'Lasilactone' in the Egyptian market?",
+    "options": [
+      "It is a pure loop diuretic",
+      "It combines furosemide with spironolactone",
+      "It contains hydrochlorothiazide only",
+      "It is an osmotic diuretic"
+    ],
+    "answer": "B",
+    "rationale": "Lasilactone is a fixed combination of furosemide (loop) + spironolactone (K-sparing)."
+  },
+  {
+    "id": 156,
+    "question": "Moduretic (available in Egypt) contains:",
+    "options": [
+      "Furosemide + Spironolactone",
+      "Amiloride + Hydrochlorothiazide",
+      "Indapamide only",
+      "Torsemide only"
+    ],
+    "answer": "B",
+    "rationale": "Moduretic is a combination of amiloride (K-sparing) and hydrochlorothiazide."
+  },
+  {
+    "id": 157,
+    "question": "Which adverse effect is most characteristic of Aldactone?",
+    "options": ["Ototoxicity", "Gynecomastia", "Hypocalcemia", "Severe hypernatremia"],
+    "answer": "B",
+    "rationale": "Spironolactone can cause gynecomastia due to anti-androgen effects."
+  },
+  {
+    "id": 158,
+    "question": "Which Egyptian trade name is most appropriate for acute pulmonary edema?",
+    "options": ["Natrilix", "Lasix", "Diamox", "Hygroton"],
+    "answer": "B",
+    "rationale": "IV Lasix (furosemide) is first-line in acute pulmonary edema."
+  },
+  {
+    "id": 159,
+    "question": "Diamox (marketed in Egypt) contains which active drug?",
+    "options": ["Mannitol", "Acetazolamide", "Spironolactone", "Torsemide"],
+    "answer": "B",
+    "rationale": "Diamox is acetazolamide, a carbonic anhydrase inhibitor."
+  },
+  {
+    "id": 160,
+    "question": "Which condition is Diamox most useful for?",
+    "options": [
+      "Acute pulmonary edema",
+      "Metabolic alkalosis",
+      "Severe hyperkalemia",
+      "Peripheral edema"
+    ],
+    "answer": "B",
+    "rationale": "Acetazolamide promotes bicarbonate loss and helps correct metabolic alkalosis."
+  },
+  {
+    "id": 161,
+    "question": "Which trade name in Egypt is a pure thiazide-like diuretic?",
+    "options": ["Lasix", "Aldactone", "Natrilix", "Lasilactone"],
+    "answer": "C",
+    "rationale": "Natrilix contains indapamide, a thiazide-like diuretic."
+  },
+  {
+    "id": 162,
+    "question": "Which electrolyte abnormality is most likely with Lasix therapy?",
+    "options": ["Hyperkalemia", "Hypokalemia", "Hypercalcemia", "Hypermagnesemia"],
+    "answer": "B",
+    "rationale": "Loop diuretics commonly cause hypokalemia."
+  },
+  {
+    "id": 163,
+    "question": "Which trade name would be LEAST effective in a patient with GFR < 30 mL/min?",
+    "options": ["Lasix", "Hygroton", "Aldactone", "Lasilactone"],
+    "answer": "B",
+    "rationale": "Thiazides (Hygroton/chlorthalidone) lose efficacy in advanced renal failure."
+  },
+  {
+    "id": 164,
+    "question": "Which Egyptian product is most appropriate in cirrhotic ascites?",
+    "options": ["Diamox", "Aldactone", "Natrilix", "Hygroton"],
+    "answer": "B",
+    "rationale": "Spironolactone (Aldactone) is first-line in cirrhotic ascites."
+  },
+  {
+    "id": 165,
+    "question": "Which trade name contains a potassium-sparing component?",
+    "options": ["Lasix", "Hygroton", "Moduretic", "Natrilix"],
+    "answer": "C",
+    "rationale": "Moduretic contains amiloride, a potassium-sparing diuretic."
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is true about Natrilix?",
+    "options": [
+      "Causes marked hyperkalemia",
+      "Acts mainly in the loop of Henle",
+      "Is thiazide-like and used in hypertension",
+      "Is an osmotic diuretic"
+    ],
+    "answer": "C",
+    "rationale": "Indapamide (Natrilix) is thiazide-like and widely used in hypertension."
+  },
+  {
+    "id": 167,
+    "question": "Which trade name would you avoid in severe hypokalemia?",
+    "options": ["Aldactone", "Moduretic", "Lasix", "Diamox"],
+    "answer": "C",
+    "rationale": "Lasix worsens hypokalemia."
+  },
+  {
+    "id": 168,
+    "question": "Which Egyptian trade name is a carbonic anhydrase inhibitor?",
+    "options": ["Lasix", "Diamox", "Natrilix", "Hygroton"],
+    "answer": "B",
+    "rationale": "Diamox contains acetazolamide."
+  },
+  {
+    "id": 169,
+    "question": "Which statement is correct about Lasilactone?",
+    "options": [
+      "It spares potassium",
+      "It wastes potassium",
+      "It has no effect on potassium",
+      "It is purely osmotic"
+    ],
+    "answer": "A",
+    "rationale": "Because it contains spironolactone, the combination tends to be potassium-sparing."
+  },
+  {
+    "id": 170,
+    "question": "Which trade name is most associated with ototoxicity risk at high doses?",
+    "options": ["Aldactone", "Lasix", "Natrilix", "Moduretic"],
+    "answer": "B",
+    "rationale": "High-dose furosemide (Lasix) can cause ototoxicity."
   }
 ]
+
+
 

@@ -2,6 +2,8 @@ import streamlit as st
 import json
 import os
 
+# Force reload for debut output
+
 # Set page configuration
 st.set_page_config(
     page_title="Antigravity MCQ Bank",
@@ -36,8 +38,14 @@ try:
             
     banks_json = json.dumps(banks_data)
     
+    # Escape closing script tags to prevent HTML injection issues
+    banks_json = banks_json.replace("</script>", "<\\/script>")
+
     # Inject data into JS
-    script_js = f"window.availableBanks = {banks_json};\n" + script_js
+    # Use explicit string concatenation to avoid f-string complexity with large content
+    script_js = "window.availableBanks = " + banks_json + ";\n" + script_js
+    
+    print(f"Injected {len(banks_data)} banks. Script size: {len(script_js)} bytes.", flush=True)
 
     # Combine into a single HTML string
     # We inject CSS into <head> and JS at the end of <body>
