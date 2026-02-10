@@ -1,0 +1,703 @@
+[
+  {
+    "id": 1,
+    "question": "Which lipid parameter is the primary proven pharmacologic target for reducing ASCVD risk in most patients?",
+    "options": ["Raising HDL-C", "Lowering LDL-C (apoB particle burden)", "Lowering total cholesterol only", "Lowering TG in all patients regardless of level"],
+    "answer": "B",
+    "rationale": "LDL-C/apoB-containing lipoproteins are the primary causal atherogenic driver; LDL lowering consistently reduces ASCVD events."
+  },
+  {
+    "id": 2,
+    "question": "The dominant LDL-C–lowering mechanism of statins is best described as:",
+    "options": ["Blocking intestinal cholesterol absorption via NPC1L1", "Inhibiting PCSK9 to increase LDL receptor recycling", "Upregulating hepatic LDL receptors via reduced intracellular cholesterol synthesis", "Increasing bile acid reabsorption to reduce hepatic cholesterol use"],
+    "answer": "C",
+    "rationale": "Statins inhibit HMG-CoA reductase, lowering hepatic cholesterol and increasing LDL receptor expression, which increases LDL clearance."
+  },
+  {
+    "id": 3,
+    "question": "Which statin is MOST dependent on CYP3A4 metabolism and therefore has higher interaction risk with strong CYP3A4 inhibitors (e.g., clarithromycin, azoles)?",
+    "options": ["Pravastatin", "Rosuvastatin", "Simvastatin", "Pitavastatin"],
+    "answer": "C",
+    "rationale": "Simvastatin (and lovastatin) are highly CYP3A4-dependent, increasing myopathy risk with CYP3A4 inhibitors."
+  },
+  {
+    "id": 4,
+    "question": "Which drug class directly blocks intestinal cholesterol absorption by inhibiting NPC1L1?",
+    "options": ["Ezetimibe", "Bile acid sequestrants", "PCSK9 monoclonal antibodies", "Fibrates"],
+    "answer": "A",
+    "rationale": "Ezetimibe inhibits NPC1L1 at the intestinal brush border, reducing cholesterol absorption and lowering LDL-C."
+  },
+  {
+    "id": 5,
+    "question": "A key adverse effect unique to bile acid sequestrants is:",
+    "options": ["Marked hyperuricemia", "Injection site reactions", "Constipation and bloating", "Tendon rupture"],
+    "answer": "C",
+    "rationale": "Bile acid sequestrants are non-absorbed resins that commonly cause GI effects, especially constipation and bloating."
+  },
+  {
+    "id": 6,
+    "question": "Which statement about bile acid sequestrants is TRUE?",
+    "options": ["They reliably lower TG and are preferred when TG is high", "They can raise TG and should be avoided in marked hypertriglyceridemia", "They cause myopathy when combined with statins", "They act by inhibiting hepatic ATP-citrate lyase"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants may increase TG and are avoided when TG is significantly elevated."
+  },
+  {
+    "id": 7,
+    "question": "PCSK9 monoclonal antibodies lower LDL-C primarily by:",
+    "options": ["Inhibiting hepatic cholesterol synthesis upstream of HMG-CoA reductase", "Preventing LDL receptor degradation and increasing LDL receptor recycling", "Reducing intestinal triglyceride absorption", "Activating PPAR-α to increase lipoprotein lipase activity"],
+    "answer": "B",
+    "rationale": "PCSK9 promotes LDL receptor degradation; mAbs neutralize PCSK9, increasing LDL receptor availability and LDL clearance."
+  },
+  {
+    "id": 8,
+    "question": "Inclisiran is best described as:",
+    "options": ["A monoclonal antibody against ANGPTL3", "An siRNA that reduces hepatic PCSK9 synthesis", "A fibrate that activates PPAR-α", "A bile acid resin that binds bile acids in the gut"],
+    "answer": "B",
+    "rationale": "Inclisiran is an siRNA that silences PCSK9 production in hepatocytes, producing sustained LDL-C lowering."
+  },
+  {
+    "id": 9,
+    "question": "Which lipid pattern most strongly suggests using a fibrate as first-line pharmacotherapy to reduce pancreatitis risk?",
+    "options": ["LDL-C 210 mg/dL with normal TG", "TG 900 mg/dL", "HDL-C 32 mg/dL with LDL-C 105 mg/dL and TG 120 mg/dL", "Total cholesterol 180 mg/dL with LDL-C 95 mg/dL"],
+    "answer": "B",
+    "rationale": "Severe hypertriglyceridemia (e.g., ≥500 mg/dL, especially ~900) increases pancreatitis risk; fibrates are potent TG-lowering agents."
+  },
+  {
+    "id": 10,
+    "question": "Fibrates lower TG mainly through which mechanism?",
+    "options": ["Inhibition of NPC1L1", "Activation of PPAR-α leading to increased lipoprotein lipase activity and TG clearance", "Inhibition of PCSK9 binding to LDL receptors", "Inhibition of microsomal triglyceride transfer protein (MTP)"],
+    "answer": "B",
+    "rationale": "Fibrates activate PPAR-α, increasing LPL activity and fatty acid oxidation, lowering VLDL/TG."
+  },
+  {
+    "id": 11,
+    "question": "Which fibrate is most problematic to combine with statins due to increased myopathy/rhabdomyolysis risk?",
+    "options": ["Fenofibrate", "Gemfibrozil", "Bezafibrate", "Clofibrate"],
+    "answer": "B",
+    "rationale": "Gemfibrozil increases statin exposure via transporter/metabolic effects, significantly raising myopathy risk; fenofibrate is generally preferred if needed."
+  },
+  {
+    "id": 12,
+    "question": "Bempedoic acid lowers LDL-C by inhibiting:",
+    "options": ["HMG-CoA reductase", "ATP-citrate lyase (ACL)", "PCSK9", "ANGPTL3"],
+    "answer": "B",
+    "rationale": "Bempedoic acid inhibits ATP-citrate lyase upstream of HMG-CoA reductase, reducing hepatic cholesterol synthesis and increasing LDL receptor activity."
+  },
+  {
+    "id": 13,
+    "question": "Two notable safety warnings associated with bempedoic acid are:",
+    "options": ["Bradycardia and cough", "Hyperuricemia/gout and tendon rupture", "Severe neutropenia and QT prolongation", "Corneal deposits and photosensitivity"],
+    "answer": "B",
+    "rationale": "Bempedoic acid is associated with increased uric acid (gout risk) and a warning for tendon rupture."
+  },
+  {
+    "id": 14,
+    "question": "Which omega-3 prescription product has the strongest outcomes evidence in select statin-treated patients with elevated TG?",
+    "options": ["Icosapent ethyl (EPA-only)", "OTC fish oil supplements (variable content)", "Omega-3 mixture DHA-only", "Cholestyramine"],
+    "answer": "A",
+    "rationale": "Icosapent ethyl (EPA-only) has demonstrated cardiovascular event reduction in selected populations on statin therapy."
+  },
+  {
+    "id": 15,
+    "question": "A key labeled adverse effect signal for icosapent ethyl is increased risk of:",
+    "options": ["Atrial fibrillation/flutter", "Severe neutropenia", "Acute kidney failure", "Stevens-Johnson syndrome"],
+    "answer": "A",
+    "rationale": "Icosapent ethyl labeling includes an increased risk of atrial fibrillation/flutter (and a bleeding risk caution)."
+  },
+  {
+    "id": 16,
+    "question": "Niacin commonly causes flushing primarily due to:",
+    "options": ["Histamine release from mast cells", "Prostaglandin-mediated vasodilation", "Direct sympathetic stimulation", "Bradykinin accumulation"],
+    "answer": "B",
+    "rationale": "Niacin flushing is prostaglandin-mediated; pretreatment with aspirin can reduce symptoms."
+  },
+  {
+    "id": 17,
+    "question": "Which lipid-lowering drug is most associated with hepatotoxicity and hepatic steatosis risk requiring a REMS program?",
+    "options": ["Ezetimibe", "Lomitapide", "Alirocumab", "Colesevelam"],
+    "answer": "B",
+    "rationale": "Lomitapide (MTP inhibitor) has a boxed warning for hepatotoxicity and is restricted through a REMS program."
+  },
+  {
+    "id": 18,
+    "question": "Evinacumab is best categorized as:",
+    "options": ["PCSK9 monoclonal antibody", "ANGPTL3 monoclonal antibody (used in HoFH)", "ACL inhibitor", "Bile acid sequestrant"],
+    "answer": "B",
+    "rationale": "Evinacumab is a monoclonal antibody against ANGPTL3 and is used as adjunct therapy in homozygous familial hypercholesterolemia."
+  },
+  {
+    "id": 19,
+    "question": "Which scenario is the most appropriate next step for LDL-C lowering after maximally tolerated statin therapy when LDL-C remains above threshold in high-risk ASCVD?",
+    "options": ["Add ezetimibe", "Stop statin and start niacin monotherapy", "Start cholestyramine even if TG is 400 mg/dL", "Start gemfibrozil primarily for LDL reduction"],
+    "answer": "A",
+    "rationale": "Ezetimibe is a common first add-on to statins for further LDL lowering; resins can raise TG and gemfibrozil is not used primarily for LDL reduction."
+  },
+  {
+    "id": 20,
+    "question": "Which lipid-lowering therapy has minimal CYP-mediated drug interaction risk and is administered as a subcutaneous injection every 6 months after initial loading?",
+    "options": ["Evolocumab", "Inclisiran", "Simvastatin", "Gemfibrozil"],
+    "answer": "B",
+    "rationale": "Inclisiran is an siRNA therapy with twice-yearly maintenance dosing and minimal classic CYP interaction issues."
+  },
+  {
+    "id": 21,
+    "question": "Which lipid abnormality is most directly linked to acute pancreatitis risk and therefore becomes the primary treatment priority when severely elevated?",
+    "options": ["Low HDL-C", "High LDL-C", "High triglycerides", "High lipoprotein(a)"],
+    "answer": "C",
+    "rationale": "Very high triglycerides (commonly ≥500 mg/dL, especially ≥1000 mg/dL) are strongly associated with pancreatitis risk, making TG lowering the immediate priority."
+  },
+  {
+    "id": 22,
+    "question": "A patient on atorvastatin develops muscle pain and dark urine after starting a strong azole antifungal. The most likely mechanism is:",
+    "options": ["Reduced statin absorption via bile acid binding", "Inhibition of CYP3A4 increasing statin exposure", "Induction of PCSK9 expression causing LDL receptor loss", "PPAR-α inhibition causing triglyceride accumulation"],
+    "answer": "B",
+    "rationale": "Many azoles are strong CYP3A4 inhibitors and can increase exposure to CYP3A4-metabolized statins, raising myopathy/rhabdomyolysis risk."
+  },
+  {
+    "id": 23,
+    "question": "Which statin is generally considered to have the LEAST CYP3A4 interaction potential?",
+    "options": ["Simvastatin", "Lovastatin", "Pravastatin", "Atorvastatin"],
+    "answer": "C",
+    "rationale": "Pravastatin is not significantly metabolized by CYP3A4, so it has fewer CYP3A4-mediated interactions."
+  },
+  {
+    "id": 24,
+    "question": "Ezetimibe should be dosed separately from bile acid sequestrants primarily to avoid:",
+    "options": ["Increased risk of rhabdomyolysis", "Reduced ezetimibe absorption due to binding in the gut", "Increased hyperuricemia", "Increased atrial fibrillation risk"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants can bind medications in the intestine and reduce their absorption; spacing doses reduces this interaction."
+  },
+  {
+    "id": 25,
+    "question": "Which drug class reduces LDL-C by increasing fecal loss of bile acids and secondarily upregulating hepatic LDL receptors?",
+    "options": ["Fibrates", "Bile acid sequestrants", "Omega-3 fatty acids", "Niacin"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants bind bile acids in the gut, forcing the liver to use cholesterol to synthesize more bile acids and increasing LDL receptor expression."
+  },
+  {
+    "id": 26,
+    "question": "Which adverse effect is most characteristic of PCSK9 monoclonal antibodies?",
+    "options": ["Constipation and fat-soluble vitamin deficiency", "Injection site reactions", "Severe hyperuricemia with gout flares", "Flushing due to prostaglandins"],
+    "answer": "B",
+    "rationale": "PCSK9 monoclonal antibodies are injectable biologics; injection site reactions are among the most common adverse effects."
+  },
+  {
+    "id": 27,
+    "question": "A key conceptual difference between PCSK9 monoclonal antibodies and inclisiran is that inclisiran:",
+    "options": ["Blocks cholesterol absorption at NPC1L1", "Reduces hepatic PCSK9 production at the mRNA level", "Activates PPAR-α to increase lipoprotein lipase", "Directly inhibits HMG-CoA reductase in muscle"],
+    "answer": "B",
+    "rationale": "Inclisiran is an siRNA therapy that silences PCSK9 synthesis in hepatocytes, reducing PCSK9 production rather than neutralizing circulating PCSK9."
+  },
+  {
+    "id": 28,
+    "question": "Which medication is most appropriate to consider when a patient has recurrent gout and needs additional LDL-C lowering beyond statin therapy?",
+    "options": ["Bempedoic acid", "Alirocumab", "Niacin", "Gemfibrozil"],
+    "answer": "B",
+    "rationale": "Bempedoic acid can raise uric acid and increase gout risk; niacin can also worsen hyperuricemia. PCSK9 inhibitors do not have these gout-related concerns."
+  },
+  {
+    "id": 29,
+    "question": "Which adverse effect is most associated with fibrate therapy due to increased cholesterol in bile?",
+    "options": ["Gallstones", "Atrial flutter", "Tendon rupture", "Cough"],
+    "answer": "A",
+    "rationale": "Fibrates can increase biliary cholesterol excretion, raising the risk of cholesterol gallstones."
+  },
+  {
+    "id": 30,
+    "question": "In patients requiring combined therapy for very high triglycerides and LDL-C, which fibrate is generally preferred if a statin must be continued?",
+    "options": ["Gemfibrozil", "Fenofibrate", "Clofibrate", "Bezafibrate"],
+    "answer": "B",
+    "rationale": "Fenofibrate is generally preferred with statins because gemfibrozil markedly increases statin exposure and myopathy risk."
+  },
+  {
+    "id": 31,
+    "question": "Which lipid-lowering drug is most likely to worsen glycemic control and increase uric acid, limiting its use in diabetes and gout?",
+    "options": ["Niacin", "Ezetimibe", "Evolocumab", "Colesevelam"],
+    "answer": "A",
+    "rationale": "Niacin can cause hyperglycemia and hyperuricemia (and flushing/hepatotoxicity), making it problematic in diabetes and gout."
+  },
+  {
+    "id": 32,
+    "question": "A patient develops marked flushing after starting niacin. The most effective pre-treatment to reduce flushing is typically:",
+    "options": ["Diphenhydramine", "Aspirin", "Omeprazole", "Furosemide"],
+    "answer": "B",
+    "rationale": "Niacin flushing is prostaglandin-mediated; aspirin taken before dosing reduces prostaglandin effects and flushing."
+  },
+  {
+    "id": 33,
+    "question": "Which class has a major safety limitation of hepatotoxicity requiring restricted use programs and is reserved for homozygous familial hypercholesterolemia?",
+    "options": ["Bile acid sequestrants", "MTP inhibitors (lomitapide)", "PCSK9 monoclonal antibodies", "Omega-3 fatty acids"],
+    "answer": "B",
+    "rationale": "Lomitapide (an MTP inhibitor) carries significant hepatotoxicity risk and is reserved for HoFH under specialist programs."
+  },
+  {
+    "id": 34,
+    "question": "Which lipid-lowering agent is most likely to cause fat-soluble vitamin deficiency with long-term use?",
+    "options": ["Inclisiran", "Cholestyramine", "Bempedoic acid", "Fenofibrate"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants can impair absorption of fat-soluble vitamins (A, D, E, K) with long-term therapy."
+  },
+  {
+    "id": 35,
+    "question": "Which agent lowers LDL-C by a mechanism that is largely independent of LDL receptor function and is used in homozygous familial hypercholesterolemia?",
+    "options": ["Ezetimibe", "Evinacumab", "Pravastatin", "Colestipol"],
+    "answer": "B",
+    "rationale": "Evinacumab (ANGPTL3 inhibition) can lower LDL-C in HoFH where LDL receptor function is impaired."
+  },
+  {
+    "id": 36,
+    "question": "A patient on warfarin starts a bile acid sequestrant and later has subtherapeutic INR. The most likely explanation is:",
+    "options": ["Warfarin is metabolized faster by CYP induction", "Warfarin absorption is reduced by binding in the gut", "Warfarin renal clearance is increased by PPAR-α activation", "Warfarin is inactivated by PCSK9 binding"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants can bind many drugs in the GI tract, decreasing their absorption; warfarin should be separated in dosing."
+  },
+  {
+    "id": 37,
+    "question": "Which statin-associated lab abnormality is most appropriate to check when a patient presents with severe muscle symptoms?",
+    "options": ["Amylase", "Creatine kinase (CK)", "Troponin", "TSH only"],
+    "answer": "B",
+    "rationale": "CK is assessed when significant muscle symptoms occur to evaluate for myopathy/rhabdomyolysis; routine CK monitoring is not required without symptoms."
+  },
+  {
+    "id": 38,
+    "question": "In a patient with marked hypertriglyceridemia, which therapy may be contraindicated or worsen the condition?",
+    "options": ["Bile acid sequestrants", "Fenofibrate", "Omega-3 fatty acids", "Icosapent ethyl"],
+    "answer": "A",
+    "rationale": "Bile acid sequestrants can raise triglycerides and are generally avoided when TG are significantly elevated."
+  },
+  {
+    "id": 39,
+    "question": "Which adverse effect should be specifically discussed when prescribing icosapent ethyl to a patient with a history of atrial fibrillation?",
+    "options": ["Increased risk of atrial fibrillation/flutter recurrence", "Severe hepatotoxicity requiring REMS", "Severe constipation and bowel obstruction", "Tendon rupture"],
+    "answer": "A",
+    "rationale": "Icosapent ethyl has a labeled increased risk of atrial fibrillation/flutter; caution is warranted in patients with prior AF."
+  },
+  {
+    "id": 40,
+    "question": "Which drug is most appropriate to add for further LDL-C reduction in a patient with true statin intolerance and persistently elevated LDL-C, with minimal CYP interactions and infrequent dosing?",
+    "options": ["Niacin", "Inclisiran", "Gemfibrozil", "Cholestyramine (despite TG 450 mg/dL)"],
+    "answer": "B",
+    "rationale": "Inclisiran provides substantial LDL-C lowering with minimal CYP interactions and twice-yearly maintenance dosing; niacin has tolerability/metabolic issues, gemfibrozil is TG-focused and interacts with statins, and cholestyramine may worsen high TG."
+  },
+  {
+    "id": 41,
+    "question": "Which lipid fraction is considered most directly causal in atherosclerosis through its particle number rather than its cholesterol content?",
+    "options": ["HDL-C", "LDL-C/apoB particles", "Chylomicrons", "Free fatty acids"],
+    "answer": "B",
+    "rationale": "ApoB-containing particles (reflected by LDL-C) are the primary atherogenic drivers of ASCVD risk."
+  },
+  {
+    "id": 42,
+    "question": "Which laboratory test is most useful for assessing adherence and biologic response after starting a statin?",
+    "options": ["CK only", "Repeat lipid panel", "Routine liver biopsy", "Routine creatinine"],
+    "answer": "B",
+    "rationale": "A repeat lipid panel 4–12 weeks after initiation assesses LDL-C reduction and adherence."
+  },
+  {
+    "id": 43,
+    "question": "Which statin is most hydrophilic and least likely to penetrate muscle cells?",
+    "options": ["Simvastatin", "Atorvastatin", "Rosuvastatin", "Lovastatin"],
+    "answer": "C",
+    "rationale": "Rosuvastatin is relatively hydrophilic, which may reduce muscle-related adverse effects in some patients."
+  },
+  {
+    "id": 44,
+    "question": "Which scenario best supports using a nonstatin first rather than escalating statin dose?",
+    "options": ["Patient already on maximally tolerated statin with persistent high LDL-C", "New diagnosis of hyperlipidemia", "Mildly elevated LDL-C in low-risk patient", "Normal TG with normal LDL-C"],
+    "answer": "A",
+    "rationale": "When LDL-C remains above threshold despite maximally tolerated statin, adding a nonstatin (e.g., ezetimibe/PCSK9) is appropriate."
+  },
+  {
+    "id": 45,
+    "question": "Which drug works by reducing hepatic VLDL assembly and is associated with severe GI intolerance?",
+    "options": ["Lomitapide", "Ezetimibe", "Fenofibrate", "Inclisiran"],
+    "answer": "A",
+    "rationale": "Lomitapide inhibits microsomal triglyceride transfer protein (MTP), reducing VLDL/chylomicron assembly but causing major GI effects."
+  },
+  {
+    "id": 46,
+    "question": "The boxed warning for lomitapide is primarily related to:",
+    "options": ["Myopathy", "Hepatotoxicity", "Atrial fibrillation", "Severe hypoglycemia"],
+    "answer": "B",
+    "rationale": "Lomitapide carries a boxed warning for hepatotoxicity and requires a REMS program."
+  },
+  {
+    "id": 47,
+    "question": "Which therapy can lower LDL-C even when LDL receptors are severely defective (e.g., in homozygous FH)?",
+    "options": ["Evinacumab", "Ezetimibe", "Pravastatin", "Colesevelam"],
+    "answer": "A",
+    "rationale": "ANGPTL3 inhibition (evinacumab) lowers LDL partly independent of LDL receptors, making it useful in HoFH."
+  },
+  {
+    "id": 48,
+    "question": "Which medication most commonly requires frequent liver function monitoring due to risk of steatosis?",
+    "options": ["Ezetimibe", "Lomitapide", "Alirocumab", "Fenofibrate"],
+    "answer": "B",
+    "rationale": "Lomitapide is associated with hepatic fat accumulation and requires close LFT monitoring."
+  },
+  {
+    "id": 49,
+    "question": "In pregnancy, which lipid-lowering option is generally considered the safest if treatment is absolutely necessary?",
+    "options": ["Atorvastatin", "Ezetimibe", "Bile acid sequestrants", "Bempedoic acid"],
+    "answer": "C",
+    "rationale": "Bile acid sequestrants are not systemically absorbed and are the usual default if therapy is unavoidable in pregnancy."
+  },
+  {
+    "id": 50,
+    "question": "Which finding most suggests true statin intolerance rather than nocebo effect?",
+    "options": ["Muscle pain only after reading side effects", "Symptoms reproducible with multiple statins at low doses", "Symptoms disappear when switching brands", "Normal CK with mild aches once"],
+    "answer": "B",
+    "rationale": "Reproducible symptoms with multiple statins at low doses increase likelihood of true intolerance."
+  },
+  {
+    "id": 51,
+    "question": "Which strategy is recommended before labeling a patient as statin-intolerant?",
+    "options": ["Immediate switch to PCSK9 inhibitor", "Rechallenge with lower dose or alternate-day dosing", "Permanent discontinuation", "Switch to niacin monotherapy"],
+    "answer": "B",
+    "rationale": "Rechallenge or alternate dosing is recommended to confirm true intolerance."
+  },
+  {
+    "id": 52,
+    "question": "Which lipid pattern best predicts benefit from icosapent ethyl?",
+    "options": ["Normal TG with high LDL-C", "Persistent TG 150–499 mg/dL on statin in high-risk patient", "Very low LDL-C and normal TG", "Isolated low HDL-C"],
+    "answer": "B",
+    "rationale": "Evidence supports icosapent ethyl in statin-treated high-risk patients with persistently elevated TG in this range."
+  },
+  {
+    "id": 53,
+    "question": "Which adverse effect of fibrates is most related to increased biliary cholesterol?",
+    "options": ["Myopathy", "Gallstones", "Flushing", "Tendon rupture"],
+    "answer": "B",
+    "rationale": "Fibrates can increase biliary cholesterol secretion, predisposing to gallstones."
+  },
+  {
+    "id": 54,
+    "question": "Which lab abnormality is commonly seen with fenofibrate therapy and usually reversible?",
+    "options": ["Severe hyperkalemia", "Increase in serum creatinine", "Profound hypoglycemia", "Marked leukopenia"],
+    "answer": "B",
+    "rationale": "Fenofibrate often raises creatinine modestly, usually reversible after stopping."
+  },
+  {
+    "id": 55,
+    "question": "Which medication is LEAST likely to have significant CYP-mediated drug interactions?",
+    "options": ["Simvastatin", "Atorvastatin", "Inclisiran", "Gemfibrozil"],
+    "answer": "C",
+    "rationale": "Inclisiran is an siRNA with minimal classic CYP interactions."
+  },
+  {
+    "id": 56,
+    "question": "Which lipid abnormality is least responsive to statin therapy?",
+    "options": ["High LDL-C", "Very high triglycerides", "Moderately elevated LDL-C", "Mixed dyslipidemia"],
+    "answer": "B",
+    "rationale": "Statins lower TG modestly but are not first-line for very high TG; fibrates/omega-3 are preferred."
+  },
+  {
+    "id": 57,
+    "question": "Which class primarily raises HDL-C but is rarely used today due to limited outcome benefit?",
+    "options": ["Niacin", "PCSK9 inhibitors", "Bile acid sequestrants", "Statins"],
+    "answer": "A",
+    "rationale": "Niacin raises HDL-C substantially but has poor tolerability and limited added cardiovascular benefit."
+  },
+  {
+    "id": 58,
+    "question": "Which lipid-lowering agent is most appropriate in a patient with severe liver disease?",
+    "options": ["Atorvastatin", "Niacin", "Colesevelam", "Lomitapide"],
+    "answer": "C",
+    "rationale": "Bile acid sequestrants (e.g., colesevelam) are not systemically absorbed and safer in liver disease."
+  },
+  {
+    "id": 59,
+    "question": "Which therapy is most appropriate for a patient with HoFH who cannot achieve adequate LDL reduction with statins, ezetimibe, and PCSK9 therapy?",
+    "options": ["Evinacumab", "Fenofibrate", "Niacin", "Cholestyramine"],
+    "answer": "A",
+    "rationale": "Evinacumab is specifically indicated as adjunct therapy in refractory homozygous familial hypercholesterolemia."
+  },
+  {
+    "id": 60,
+    "question": "Which statement about lipoprotein(a) [Lp(a)] is most accurate regarding current pharmacotherapy?",
+    "options": ["Statins reliably lower Lp(a)", "PCSK9 inhibitors modestly reduce Lp(a)", "Fibrates are first-line for Lp(a)", "Bile acid sequestrants eliminate Lp(a)"],
+    "answer": "B",
+    "rationale": "PCSK9 inhibitors produce a modest reduction in Lp(a); no therapy specifically targets Lp(a) as first-line yet."
+  },
+  {
+    "id": 61,
+    "question": "Which biomarker best reflects the number of atherogenic lipoprotein particles in plasma?",
+    "options": ["Total cholesterol", "ApoB", "HDL-C", "Free fatty acids"],
+    "answer": "B",
+    "rationale": "ApoB represents one molecule per atherogenic particle (VLDL, IDL, LDL, Lp(a)) and better reflects particle number than LDL-C alone."
+  },
+  {
+    "id": 62,
+    "question": "Which secondary cause of hyperlipidemia should be corrected before escalating drug therapy?",
+    "options": ["Advanced age", "Genetic FH", "Hypothyroidism", "Male sex"],
+    "answer": "C",
+    "rationale": "Hypothyroidism is a reversible cause of dyslipidemia; treating it can significantly lower LDL-C and TG."
+  },
+  {
+    "id": 63,
+    "question": "Which statin is most appropriate in a patient taking multiple CYP3A4 inhibitors?",
+    "options": ["Simvastatin", "Lovastatin", "Pravastatin", "Atorvastatin"],
+    "answer": "C",
+    "rationale": "Pravastatin is minimally metabolized by CYP3A4 and has the lowest interaction potential."
+  },
+  {
+    "id": 64,
+    "question": "What is the primary reason statins are recommended at night for some agents?",
+    "options": ["Better absorption", "Lower muscle toxicity", "Higher nocturnal cholesterol synthesis", "Less interaction with food"],
+    "answer": "C",
+    "rationale": "Endogenous cholesterol synthesis is highest at night; short-acting statins (e.g., simvastatin) are more effective when dosed then."
+  },
+  {
+    "id": 65,
+    "question": "Which lab should be checked if a patient develops jaundice while on lipid therapy?",
+    "options": ["Creatine kinase", "ALT/AST", "Troponin", "Amylase"],
+    "answer": "B",
+    "rationale": "Jaundice suggests possible hepatotoxicity; liver enzymes should be evaluated."
+  },
+  {
+    "id": 66,
+    "question": "Which statement about Lp(a) is TRUE?",
+    "options": ["It is mainly influenced by diet", "It is largely genetically determined", "It responds well to fibrates", "It is reliably lowered by niacin today"],
+    "answer": "B",
+    "rationale": "Lipoprotein(a) levels are predominantly genetically determined and relatively resistant to lifestyle changes."
+  },
+  {
+    "id": 67,
+    "question": "Which therapy has shown the greatest absolute LDL-C reduction in most patients?",
+    "options": ["Ezetimibe", "High-intensity statin", "PCSK9 inhibitor", "Niacin"],
+    "answer": "C",
+    "rationale": "PCSK9 inhibitors typically produce the largest additional LDL-C reductions (≈50–60%)."
+  },
+  {
+    "id": 68,
+    "question": "Which lipid pattern suggests familial combined hyperlipidemia?",
+    "options": ["Isolated very high TG", "High LDL-C with variable TG in family members", "Very low HDL-C only", "Normal lipids in all relatives"],
+    "answer": "B",
+    "rationale": "Familial combined hyperlipidemia often shows variable elevations of LDL-C and/or TG across family members."
+  },
+  {
+    "id": 69,
+    "question": "Which medication is most likely to interfere with absorption of levothyroxine?",
+    "options": ["Evolocumab", "Colestipol", "Rosuvastatin", "Inclisiran"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants bind many oral drugs in the gut, including levothyroxine."
+  },
+  {
+    "id": 70,
+    "question": "Which finding increases the likelihood that muscle symptoms on statins are drug-related rather than coincidental?",
+    "options": ["Normal CK once", "Symptoms only with exertion", "Symptoms recur with different statins", "Symptoms begin years after stable dosing"],
+    "answer": "C",
+    "rationale": "Reproducibility across different statins strengthens the case for true statin intolerance."
+  },
+  {
+    "id": 71,
+    "question": "Which approach is recommended for patients with possible statin myopathy?",
+    "options": ["Immediate permanent discontinuation", "Check CK and consider dechallenge/rechallenge", "Switch directly to niacin", "Ignore symptoms if CK is normal"],
+    "answer": "B",
+    "rationale": "Evaluation includes CK measurement and a structured dechallenge/rechallenge to confirm causality."
+  },
+  {
+    "id": 72,
+    "question": "Which lipid-lowering drug most commonly causes flushing and pruritus?",
+    "options": ["Niacin", "Fenofibrate", "Alirocumab", "Ezetimibe"],
+    "answer": "A",
+    "rationale": "Niacin induces prostaglandin-mediated vasodilation leading to flushing and itching."
+  },
+  {
+    "id": 73,
+    "question": "Which agent lowers TG but may increase LDL-C when TG are extremely high?",
+    "options": ["Fenofibrate", "Ezetimibe", "Rosuvastatin", "Colesevelam"],
+    "answer": "A",
+    "rationale": "When TG are very high, fibrate-induced clearance of VLDL remnants can transiently raise measured LDL-C."
+  },
+  {
+    "id": 74,
+    "question": "Which drug is contraindicated in severe renal impairment?",
+    "options": ["Evolocumab", "Fenofibrate", "Ezetimibe", "Inclisiran"],
+    "answer": "B",
+    "rationale": "Fenofibrate requires dose adjustment and is generally avoided in severe kidney disease."
+  },
+  {
+    "id": 75,
+    "question": "Which therapy is most appropriate in a patient with ASCVD, LDL-C 160 mg/dL, and documented statin intolerance?",
+    "options": ["Niacin alone", "PCSK9 inhibitor", "Gemfibrozil", "No therapy"],
+    "answer": "B",
+    "rationale": "PCSK9 inhibitors provide potent LDL lowering without statin-related muscle toxicity."
+  },
+  {
+    "id": 76,
+    "question": "Which lipid change is typically seen after starting a statin?",
+    "options": ["Marked HDL decrease", "LDL decrease", "TG increase", "No change in any lipids"],
+    "answer": "B",
+    "rationale": "Statins reliably lower LDL-C and often modestly lower TG and slightly raise HDL-C."
+  },
+  {
+    "id": 77,
+    "question": "Which medication should be avoided in a patient with gallstones?",
+    "options": ["Fenofibrate", "Ezetimibe", "Alirocumab", "Inclisiran"],
+    "answer": "A",
+    "rationale": "Fibrates increase biliary cholesterol secretion and can worsen gallstone disease."
+  },
+  {
+    "id": 78,
+    "question": "Which therapy has a mechanism that is independent of LDL receptors?",
+    "options": ["Statins", "Evinacumab", "Ezetimibe", "Colesevelam"],
+    "answer": "B",
+    "rationale": "ANGPTL3 inhibition by evinacumab can lower LDL even when LDL receptors are defective."
+  },
+  {
+    "id": 79,
+    "question": "Which lab abnormality is most typical with niacin overdose?",
+    "options": ["Severe hypoglycemia", "Marked transaminase elevation", "Profound leukopenia", "Hyperkalemia"],
+    "answer": "B",
+    "rationale": "High-dose niacin can cause clinically significant hepatotoxicity with elevated liver enzymes."
+  },
+  {
+    "id": 80,
+    "question": "Which statement best describes combination therapy in high-risk ASCVD?",
+    "options": ["Statin alone is always sufficient", "Add nonstatins only if LDL-C remains above threshold", "Never combine drugs", "Use niacin first-line with statins"],
+    "answer": "B",
+    "rationale": "Guidelines recommend adding nonstatins (e.g., ezetimibe, then PCSK9 therapy) when LDL-C remains above risk-based thresholds despite maximally tolerated statins."
+  },
+  {
+    "id": 81,
+    "question": "Which lipoprotein is the main carrier of endogenous triglycerides from the liver to peripheral tissues?",
+    "options": ["LDL", "VLDL", "HDL", "Chylomicrons"],
+    "answer": "B",
+    "rationale": "VLDL transports triglycerides synthesized in the liver to peripheral tissues."
+  },
+  {
+    "id": 82,
+    "question": "Which enzyme is primarily responsible for hydrolyzing triglycerides in circulating chylomicrons and VLDL?",
+    "options": ["HMG-CoA reductase", "Lipoprotein lipase (LPL)", "NPC1L1", "PCSK9"],
+    "answer": "B",
+    "rationale": "Lipoprotein lipase breaks down triglycerides in chylomicrons and VLDL into free fatty acids."
+  },
+  {
+    "id": 83,
+    "question": "Which condition is most commonly associated with secondary hypertriglyceridemia?",
+    "options": ["Hyperthyroidism", "Uncontrolled diabetes", "Iron deficiency anemia", "Vitamin D deficiency"],
+    "answer": "B",
+    "rationale": "Poorly controlled diabetes is a classic secondary cause of hypertriglyceridemia."
+  },
+  {
+    "id": 84,
+    "question": "Which laboratory pattern best suggests familial hypercholesterolemia?",
+    "options": ["Very high TG with low LDL", "LDL-C >190 mg/dL with normal TG", "Low HDL-C only", "Normal LDL-C with high TG"],
+    "answer": "B",
+    "rationale": "Familial hypercholesterolemia is characterized by markedly elevated LDL-C, often >190 mg/dL."
+  },
+  {
+    "id": 85,
+    "question": "Which physical finding is classically associated with familial hypercholesterolemia?",
+    "options": ["Xanthelasma only", "Tendon xanthomas", "Skin rash", "Peripheral edema"],
+    "answer": "B",
+    "rationale": "Tendon xanthomas are a hallmark physical finding in familial hypercholesterolemia."
+  },
+  {
+    "id": 86,
+    "question": "Which lipid abnormality is most strongly associated with metabolic syndrome?",
+    "options": ["Low LDL-C", "High HDL-C", "High triglycerides", "Low total cholesterol"],
+    "answer": "C",
+    "rationale": "Hypertriglyceridemia is a core feature of metabolic syndrome."
+  },
+  {
+    "id": 87,
+    "question": "Which statin is most lipophilic?",
+    "options": ["Pravastatin", "Rosuvastatin", "Simvastatin", "Pitavastatin"],
+    "answer": "C",
+    "rationale": "Simvastatin is highly lipophilic, allowing greater tissue penetration."
+  },
+  {
+    "id": 88,
+    "question": "Which statement best describes the relationship between HDL-C and cardiovascular risk?",
+    "options": ["Higher HDL-C always reduces risk", "Raising HDL-C pharmacologically does not reliably reduce events", "Lower HDL-C is protective", "HDL-C has no biological role"],
+    "answer": "B",
+    "rationale": "Clinical trials show that pharmacologically raising HDL-C does not consistently reduce cardiovascular events."
+  },
+  {
+    "id": 89,
+    "question": "Which test is most helpful for diagnosing familial hypercholesterolemia?",
+    "options": ["Fasting glucose", "Genetic testing for LDL receptor mutations", "Urinalysis", "Serum sodium"],
+    "answer": "B",
+    "rationale": "Genetic testing can confirm LDL receptor or related mutations in FH."
+  },
+  {
+    "id": 90,
+    "question": "Which drug class primarily acts in the intestine rather than the liver?",
+    "options": ["Statins", "Bile acid sequestrants", "PCSK9 inhibitors", "Fibrates"],
+    "answer": "B",
+    "rationale": "Bile acid sequestrants act within the gut and are not systemically absorbed."
+  },
+  {
+    "id": 91,
+    "question": "Which lipid parameter is most commonly reported in routine lipid panels?",
+    "options": ["ApoB", "LDL-C (calculated)", "Lp(a)", "Free fatty acids"],
+    "answer": "B",
+    "rationale": "LDL-C is routinely calculated (e.g., Friedewald formula) in standard lipid panels."
+  },
+  {
+    "id": 92,
+    "question": "Which formula is traditionally used to estimate LDL-C in routine labs?",
+    "options": ["Friedewald formula", "Cockcroft-Gault", "MDRD", "HOMA-IR"],
+    "answer": "A",
+    "rationale": "The Friedewald formula estimates LDL-C using total cholesterol, HDL-C, and triglycerides."
+  },
+  {
+    "id": 93,
+    "question": "When is the Friedewald formula unreliable?",
+    "options": ["When TG <100 mg/dL", "When TG >400 mg/dL", "When HDL-C is low", "When total cholesterol is normal"],
+    "answer": "B",
+    "rationale": "The Friedewald formula becomes inaccurate when triglycerides exceed 400 mg/dL."
+  },
+  {
+    "id": 94,
+    "question": "Which lifestyle intervention has the greatest impact on lowering triglycerides?",
+    "options": ["Increasing saturated fat", "Reducing refined carbohydrates and alcohol", "Increasing salt intake", "Avoiding all exercise"],
+    "answer": "B",
+    "rationale": "Reducing refined carbs and alcohol is highly effective in lowering triglycerides."
+  },
+  {
+    "id": 95,
+    "question": "Which dietary component most strongly raises LDL-C?",
+    "options": ["Monounsaturated fat", "Trans fat", "Fiber", "Omega-3 fatty acids"],
+    "answer": "B",
+    "rationale": "Trans fats significantly increase LDL-C and cardiovascular risk."
+  },
+  {
+    "id": 96,
+    "question": "Which drug lowers LDL-C but does NOT rely on LDL receptor activity?",
+    "options": ["Ezetimibe", "Evinacumab", "Atorvastatin", "Colesevelam"],
+    "answer": "B",
+    "rationale": "Evinacumab can lower LDL-C partly independent of LDL receptor function."
+  },
+  {
+    "id": 97,
+    "question": "Which lipid abnormality is most commonly seen in chronic kidney disease?",
+    "options": ["Very low LDL-C", "High triglycerides", "Very high HDL-C", "Normal lipids"],
+    "answer": "B",
+    "rationale": "CKD is frequently associated with hypertriglyceridemia and low HDL-C."
+  },
+  {
+    "id": 98,
+    "question": "Which medication is safest for LDL lowering in a patient with severe liver disease?",
+    "options": ["Atorvastatin", "Niacin", "Colesevelam", "Lomitapide"],
+    "answer": "C",
+    "rationale": "Colesevelam is not systemically absorbed and is safer in significant liver disease."
+  },
+  {
+    "id": 99,
+    "question": "Which lipid abnormality is most typical after a high-fat meal?",
+    "options": ["Rise in LDL-C", "Rise in chylomicrons", "Drop in VLDL", "Drop in triglycerides"],
+    "answer": "B",
+    "rationale": "After eating, chylomicrons increase to transport dietary triglycerides."
+  },
+  {
+    "id": 100,
+    "question": "Which statement best describes combination lipid therapy?",
+    "options": ["Statins should never be combined", "Combination is used when LDL-C remains above target despite statins", "Combination is only for low-risk patients", "Combination always requires niacin"],
+    "answer": "B",
+    "rationale": "Nonstatins are added when maximally tolerated statins do not achieve LDL-C goals in high-risk patients."
+  }
+]
+

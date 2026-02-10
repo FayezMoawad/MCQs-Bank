@@ -1,0 +1,705 @@
+[
+  {
+    "id": 1,
+    "question": "Which antidiabetic drug primarily reduces hepatic gluconeogenesis?",
+    "options": ["Metformin", "Glibenclamide", "Empagliflozin", "Pioglitazone"],
+    "answer": "A",
+    "rationale": "Metformin’s principal action is suppression of hepatic glucose production."
+  },
+  {
+    "id": 2,
+    "question": "Which class of drugs increases urinary glucose excretion?",
+    "options": ["DPP-4 inhibitors", "SGLT2 inhibitors", "Sulfonylureas", "TZDs"],
+    "answer": "B",
+    "rationale": "SGLT2 inhibitors block renal glucose reabsorption in the proximal tubule."
+  },
+  {
+    "id": 3,
+    "question": "Which drug is most likely to cause weight loss?",
+    "options": ["Gliclazide", "Pioglitazone", "Semaglutide", "NPH insulin"],
+    "answer": "C",
+    "rationale": "GLP-1 receptor agonists reduce appetite and slow gastric emptying, promoting weight loss."
+  },
+  {
+    "id": 4,
+    "question": "Which agent has the highest risk of hypoglycemia when used alone?",
+    "options": ["Metformin", "Sitagliptin", "Glimepiride", "Dapagliflozin"],
+    "answer": "C",
+    "rationale": "Sulfonylureas stimulate insulin release independent of glucose levels."
+  },
+  {
+    "id": 5,
+    "question": "Which adverse effect is classically associated with SGLT2 inhibitors?",
+    "options": ["Constipation", "Genital mycotic infections", "Peripheral edema", "Severe bradycardia"],
+    "answer": "B",
+    "rationale": "Glycosuria predisposes to genital fungal infections."
+  },
+  {
+    "id": 6,
+    "question": "Which drug should be held before major surgery to reduce ketoacidosis risk?",
+    "options": ["Metformin", "Empagliflozin", "Acarbose", "Linagliptin"],
+    "answer": "B",
+    "rationale": "SGLT2 inhibitors are associated with euglycemic DKA; they should be stopped pre-operatively."
+  },
+  {
+    "id": 7,
+    "question": "Which class commonly causes fluid retention and may worsen heart failure?",
+    "options": ["TZDs", "GLP-1 RAs", "DPP-4 inhibitors", "Biguanides"],
+    "answer": "A",
+    "rationale": "Thiazolidinediones increase sodium and water retention."
+  },
+  {
+    "id": 8,
+    "question": "Which incretin-based drug is a dual GIP/GLP-1 agonist?",
+    "options": ["Dulaglutide", "Sitagliptin", "Tirzepatide", "Repaglinide"],
+    "answer": "C",
+    "rationale": "Tirzepatide activates both GIP and GLP-1 receptors."
+  },
+  {
+    "id": 9,
+    "question": "Which medication slows intestinal carbohydrate absorption?",
+    "options": ["Acarbose", "Glargine", "Canagliflozin", "Rosiglitazone"],
+    "answer": "A",
+    "rationale": "Acarbose inhibits α-glucosidase enzymes in the gut."
+  },
+  {
+    "id": 10,
+    "question": "Which insulin type is best described as rapid-acting?",
+    "options": ["NPH", "Regular", "Lispro", "Glargine"],
+    "answer": "C",
+    "rationale": "Lispro is a rapid-acting insulin analog used for meals."
+  },
+  {
+    "id": 11,
+    "question": "Which finding raises concern for metformin-associated lactic acidosis?",
+    "options": ["Mild diarrhea", "Metallic taste", "High anion gap acidosis", "Weight gain"],
+    "answer": "C",
+    "rationale": "Lactic acidosis presents with high anion gap metabolic acidosis."
+  },
+  {
+    "id": 12,
+    "question": "Which DPP-4 inhibitor carries a specific FDA warning for heart failure risk?",
+    "options": ["Linagliptin", "Sitagliptin", "Saxagliptin", "Vildagliptin"],
+    "answer": "C",
+    "rationale": "Saxagliptin has been linked to increased HF hospitalization."
+  },
+  {
+    "id": 13,
+    "question": "Which drug class is most likely to cause significant gastrointestinal side effects?",
+    "options": ["GLP-1 receptor agonists", "Sulfonylureas", "Basal insulin", "TZDs"],
+    "answer": "A",
+    "rationale": "Nausea, vomiting, and diarrhea are common with GLP-1 RAs."
+  },
+  {
+    "id": 14,
+    "question": "Which insulin has the longest duration of action?",
+    "options": ["Lispro", "Regular", "NPH", "Degludec"],
+    "answer": "D",
+    "rationale": "Insulin degludec is an ultra-long-acting basal insulin."
+  },
+  {
+    "id": 15,
+    "question": "Which drug should be avoided in active bladder cancer?",
+    "options": ["Pioglitazone", "Metformin", "Dapagliflozin", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "Pioglitazone labeling advises avoiding use in active bladder cancer."
+  },
+  {
+    "id": 16,
+    "question": "Which agent must be given with meals and skipped if the meal is skipped?",
+    "options": ["Repaglinide", "Glargine", "Semaglutide", "Acarbose"],
+    "answer": "A",
+    "rationale": "Meglitinides are short-acting secretagogues tied to meal timing."
+  },
+  {
+    "id": 17,
+    "question": "Which drug is most appropriate for a patient with T2D and established heart failure?",
+    "options": ["Canagliflozin", "Glibenclamide", "Pioglitazone", "Bromocriptine"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors have proven benefits in heart failure."
+  },
+  {
+    "id": 18,
+    "question": "Which adverse effect is most strongly associated with pramlintide?",
+    "options": ["Severe hypoglycemia with insulin", "Hyperkalemia", "Edema", "Mycotic infection"],
+    "answer": "A",
+    "rationale": "Pramlintide increases risk of insulin-induced hypoglycemia unless insulin is reduced."
+  },
+  {
+    "id": 19,
+    "question": "Which drug is weight neutral and rarely causes hypoglycemia?",
+    "options": ["Sitagliptin", "Glibenclamide", "NPH insulin", "Pioglitazone"],
+    "answer": "A",
+    "rationale": "DPP-4 inhibitors are generally weight neutral with low hypoglycemia risk."
+  },
+  {
+    "id": 20,
+    "question": "Which laboratory parameter should be monitored regularly in long-term metformin therapy?",
+    "options": ["Vitamin B12", "Serum sodium", "Creatine kinase", "Troponin"],
+    "answer": "A",
+    "rationale": "Chronic metformin use can reduce vitamin B12 levels."
+  },
+  {
+    "id": 21,
+    "question": "Which antidiabetic drug primarily reduces post-prandial glucose by delaying carbohydrate absorption?",
+    "options": ["Acarbose", "Metformin", "Empagliflozin", "Glargine"],
+    "answer": "A",
+    "rationale": "Acarbose inhibits intestinal α-glucosidase enzymes, slowing carbohydrate breakdown and absorption."
+  },
+  {
+    "id": 22,
+    "question": "Which insulin is typically used as basal coverage once daily?",
+    "options": ["Regular insulin", "Lispro", "Glargine", "70/30 premix"],
+    "answer": "C",
+    "rationale": "Insulin glargine is a long-acting basal insulin designed for once-daily dosing."
+  },
+  {
+    "id": 23,
+    "question": "Which class lowers glucose by promoting glucosuria?",
+    "options": ["SGLT2 inhibitors", "Sulfonylureas", "TZDs", "DPP-4 inhibitors"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors block renal glucose reabsorption in the proximal tubule."
+  },
+  {
+    "id": 24,
+    "question": "Which adverse effect is most characteristic of TZDs?",
+    "options": ["Genital fungal infection", "Fluid retention", "Severe hypoglycemia", "Ketoacidosis"],
+    "answer": "B",
+    "rationale": "TZDs commonly cause sodium and water retention, which can worsen edema and heart failure."
+  },
+  {
+    "id": 25,
+    "question": "Which drug class requires functioning pancreatic beta cells to work?",
+    "options": ["Metformin", "SGLT2 inhibitors", "Sulfonylureas", "Acarbose"],
+    "answer": "C",
+    "rationale": "Sulfonylureas stimulate endogenous insulin release from beta cells."
+  },
+  {
+    "id": 26,
+    "question": "Which GLP-1 agent can be taken orally?",
+    "options": ["Liraglutide", "Semaglutide", "Exenatide", "Dulaglutide"],
+    "answer": "B",
+    "rationale": "Semaglutide has an approved oral formulation in addition to injectable forms."
+  },
+  {
+    "id": 27,
+    "question": "Which situation increases the risk of euglycemic DKA with SGLT2 inhibitors?",
+    "options": ["Prolonged fasting", "High carbohydrate intake", "Excess insulin dosing", "Dehydration with hyperglycemia"],
+    "answer": "A",
+    "rationale": "Fasting or reduced carbohydrate intake can precipitate ketogenesis despite normal glucose levels."
+  },
+  {
+    "id": 28,
+    "question": "Which insulin type has a cloudy appearance due to protamine?",
+    "options": ["Lispro", "Regular", "NPH", "Degludec"],
+    "answer": "C",
+    "rationale": "NPH insulin is mixed with protamine, giving it a cloudy appearance."
+  },
+  {
+    "id": 29,
+    "question": "Which medication should be avoided in symptomatic heart failure?",
+    "options": ["Pioglitazone", "Empagliflozin", "Metformin", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "TZDs can worsen fluid retention and precipitate heart failure."
+  },
+  {
+    "id": 30,
+    "question": "Which drug lowers A1c mainly by reducing fasting glucose?",
+    "options": ["Metformin", "Repaglinide", "Acarbose", "Pramlintide"],
+    "answer": "A",
+    "rationale": "Metformin suppresses hepatic gluconeogenesis, primarily affecting fasting glucose."
+  },
+  {
+    "id": 31,
+    "question": "Which incretin-based drug is a dual GIP/GLP-1 agonist?",
+    "options": ["Tirzepatide", "Sitagliptin", "Lixisenatide", "Linagliptin"],
+    "answer": "A",
+    "rationale": "Tirzepatide activates both GIP and GLP-1 receptors."
+  },
+  {
+    "id": 32,
+    "question": "Which adverse effect is most commonly seen with acarbose?",
+    "options": ["Hypoglycemia", "Abdominal bloating", "Weight gain", "Peripheral edema"],
+    "answer": "B",
+    "rationale": "Unabsorbed carbohydrates are fermented in the gut, causing gas and bloating."
+  },
+  {
+    "id": 33,
+    "question": "Which class has proven benefit in chronic kidney disease independent of glycemic control?",
+    "options": ["SGLT2 inhibitors", "Sulfonylureas", "TZDs", "Meglitinides"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors slow CKD progression through hemodynamic and metabolic effects."
+  },
+  {
+    "id": 34,
+    "question": "Which insulin should be injected immediately before meals?",
+    "options": ["Lispro", "NPH", "Glargine", "Degludec"],
+    "answer": "A",
+    "rationale": "Lispro is a rapid-acting insulin designed for mealtime use."
+  },
+  {
+    "id": 35,
+    "question": "Which lab abnormality should prompt caution with metformin?",
+    "options": ["eGFR 25 mL/min", "LDL 180 mg/dL", "Potassium 3.8 mmol/L", "A1c 7.5%"],
+    "answer": "A",
+    "rationale": "Metformin is contraindicated when eGFR is below 30 mL/min due to lactic acidosis risk."
+  },
+  {
+    "id": 36,
+    "question": "Which drug is most likely to cause weight gain among the following?",
+    "options": ["Gliclazide", "Semaglutide", "Dapagliflozin", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "Sulfonylureas commonly cause weight gain through increased insulin levels."
+  },
+  {
+    "id": 37,
+    "question": "Which adverse effect is a rare but serious complication of SGLT2 inhibitors?",
+    "options": ["Fournier’s gangrene", "Hypokalemia", "Tremor", "Hyperuricemia"],
+    "answer": "A",
+    "rationale": "Necrotizing fasciitis of the perineum (Fournier’s gangrene) has been reported rarely."
+  },
+  {
+    "id": 38,
+    "question": "Which drug must always be used together with mealtime insulin?",
+    "options": ["Pramlintide", "Metformin", "Acarbose", "Linagliptin"],
+    "answer": "A",
+    "rationale": "Pramlintide is only indicated as an adjunct to prandial insulin therapy."
+  },
+  {
+    "id": 39,
+    "question": "Which DPP-4 inhibitor generally does NOT require renal dose adjustment?",
+    "options": ["Linagliptin", "Sitagliptin", "Saxagliptin", "Alogliptin"],
+    "answer": "A",
+    "rationale": "Linagliptin is primarily eliminated via the biliary route."
+  },
+  {
+    "id": 40,
+    "question": "Which clinical feature most strongly suggests pancreatitis in a patient on a GLP-1 agonist?",
+    "options": ["Severe epigastric pain radiating to the back", "Mild nausea", "Weight loss", "Polyuria"],
+    "answer": "A",
+    "rationale": "Persistent severe epigastric pain with radiation to the back is a classic red flag for pancreatitis."
+  },
+  {
+    "id": 41,
+    "question": "Which insulin is commonly used for correction of hyperglycemia in hospital sliding-scale regimens?",
+    "options": ["Glargine", "Lispro", "NPH", "Degludec"],
+    "answer": "B",
+    "rationale": "Lispro is a rapid-acting insulin suitable for short-term correction of high glucose levels."
+  },
+  {
+    "id": 42,
+    "question": "Which mechanism explains weight loss seen with SGLT2 inhibitors?",
+    "options": ["Reduced appetite", "Loss of calories in urine", "Increased basal metabolism", "Delayed gastric emptying"],
+    "answer": "B",
+    "rationale": "SGLT2 inhibitors cause glycosuria, leading to caloric loss."
+  },
+  {
+    "id": 43,
+    "question": "Which insulin mix contains both intermediate and short-acting components?",
+    "options": ["Glargine U300", "70/30 NPH/Regular", "Lispro", "Degludec"],
+    "answer": "B",
+    "rationale": "70/30 contains 70% NPH (intermediate) and 30% regular (short-acting)."
+  },
+  {
+    "id": 44,
+    "question": "Which antidiabetic drug can cause vitamin B12 deficiency with long-term use?",
+    "options": ["Metformin", "Sitagliptin", "Dapagliflozin", "Pioglitazone"],
+    "answer": "A",
+    "rationale": "Chronic metformin therapy is associated with reduced B12 absorption."
+  },
+  {
+    "id": 45,
+    "question": "Which drug class primarily lowers post-prandial glucose spikes?",
+    "options": ["Meglitinides", "Basal insulin", "TZDs", "SGLT2 inhibitors"],
+    "answer": "A",
+    "rationale": "Meglitinides are short-acting secretagogues targeting meal-related hyperglycemia."
+  },
+  {
+    "id": 46,
+    "question": "Which adverse effect is commonly associated with canagliflozin?",
+    "options": ["Increased fracture risk", "Severe bradycardia", "Hyperkalemia", "Severe diarrhea"],
+    "answer": "A",
+    "rationale": "Canagliflozin has been associated with a higher fracture risk in some studies."
+  },
+  {
+    "id": 47,
+    "question": "Which insulin requires shaking before use due to its cloudy appearance?",
+    "options": ["Glargine", "Lispro", "NPH", "Degludec"],
+    "answer": "C",
+    "rationale": "NPH is a suspension that must be mixed before injection."
+  },
+  {
+    "id": 48,
+    "question": "Which class has minimal effect on fasting glucose but improves post-meal glucose?",
+    "options": ["Acarbose", "Metformin", "Basal insulin", "TZDs"],
+    "answer": "A",
+    "rationale": "Acarbose mainly delays carbohydrate absorption after meals."
+  },
+  {
+    "id": 49,
+    "question": "Which condition strongly favors choosing an SGLT2 inhibitor?",
+    "options": ["Heart failure", "Active bladder cancer", "Recurrent severe hypoglycemia", "Pregnancy"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors have proven benefits in heart failure management."
+  },
+  {
+    "id": 50,
+    "question": "Which drug should generally be avoided in pregnancy?",
+    "options": ["Insulin", "Metformin", "SGLT2 inhibitors", "Acarbose"],
+    "answer": "C",
+    "rationale": "SGLT2 inhibitors are not recommended in pregnancy."
+  },
+  {
+    "id": 51,
+    "question": "Which insulin has a relatively flat, peakless profile?",
+    "options": ["Glargine", "Regular", "NPH", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Glargine provides steady basal coverage with minimal peak."
+  },
+  {
+    "id": 52,
+    "question": "Which adverse effect is most likely with high-dose acarbose?",
+    "options": ["Elevated liver enzymes", "Severe hypoglycemia", "Fluid retention", "DKA"],
+    "answer": "A",
+    "rationale": "Dose-related transaminase elevation can occur with acarbose."
+  },
+  {
+    "id": 53,
+    "question": "Which antidiabetic agent may increase triglyceride levels?",
+    "options": ["Colesevelam", "Metformin", "Empagliflozin", "Semaglutide"],
+    "answer": "A",
+    "rationale": "Bile acid sequestrants can raise triglycerides."
+  },
+  {
+    "id": 54,
+    "question": "Which insulin is preferred for basal coverage in type 1 diabetes?",
+    "options": ["Glargine or Degludec", "Regular", "NPH", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Long-acting analogs provide stable basal insulin with less hypoglycemia."
+  },
+  {
+    "id": 55,
+    "question": "Which symptom suggests volume depletion from SGLT2 inhibitors?",
+    "options": ["Dizziness on standing", "Constipation", "Severe cough", "Tremor"],
+    "answer": "A",
+    "rationale": "Osmotic diuresis can cause orthostatic hypotension."
+  },
+  {
+    "id": 56,
+    "question": "Which drug acts on PPAR-γ receptors?",
+    "options": ["Pioglitazone", "Sitagliptin", "Repaglinide", "Acarbose"],
+    "answer": "A",
+    "rationale": "TZDs activate PPAR-γ to improve insulin sensitivity."
+  },
+  {
+    "id": 57,
+    "question": "Which insulin is typically dosed twice daily in some regimens?",
+    "options": ["NPH", "Glargine", "Degludec", "Lispro"],
+    "answer": "A",
+    "rationale": "NPH often requires twice-daily dosing due to its peak."
+  },
+  {
+    "id": 58,
+    "question": "Which agent is most appropriate for severe hyperglycemia in acute settings?",
+    "options": ["Intravenous regular insulin", "Oral metformin", "Semaglutide", "Acarbose"],
+    "answer": "A",
+    "rationale": "IV regular insulin is standard in hyperglycemic emergencies."
+  },
+  {
+    "id": 59,
+    "question": "Which adverse effect is linked to saxagliptin?",
+    "options": ["Heart failure hospitalization", "Bladder cancer", "Severe hypoglycemia", "Fractures"],
+    "answer": "A",
+    "rationale": "Saxagliptin carries an FDA warning for HF risk."
+  },
+  {
+    "id": 60,
+    "question": "Which drug is safest in a patient with advanced CKD requiring glucose control?",
+    "options": ["Linagliptin", "Metformin", "Canagliflozin", "Glibenclamide"],
+    "answer": "A",
+    "rationale": "Linagliptin does not require renal dose adjustment."
+  },
+  {
+    "id": 61,
+    "question": "Which insulin is most appropriate for covering basal needs overnight?",
+    "options": ["Glargine", "Regular", "Lispro", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Glargine provides steady basal insulin with minimal peak over 24 hours."
+  },
+  {
+    "id": 62,
+    "question": "Which antidiabetic drug reduces glucagon secretion?",
+    "options": ["GLP-1 receptor agonists", "Sulfonylureas", "TZDs", "Acarbose"],
+    "answer": "A",
+    "rationale": "GLP-1 receptor agonists suppress inappropriate glucagon release."
+  },
+  {
+    "id": 63,
+    "question": "Which insulin formulation is clear and should NOT be shaken?",
+    "options": ["Lispro", "NPH", "70/30 mix", "Protamine insulin"],
+    "answer": "A",
+    "rationale": "Rapid-acting analogs like lispro are clear solutions and should not be shaken."
+  },
+  {
+    "id": 64,
+    "question": "Which class works even in the absence of functional beta cells?",
+    "options": ["SGLT2 inhibitors", "Sulfonylureas", "Meglitinides", "DPP-4 inhibitors"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors lower glucose independently of insulin secretion."
+  },
+  {
+    "id": 65,
+    "question": "Which adverse effect is most associated with rapid weight loss on GLP-1 agonists?",
+    "options": ["Gallstones", "Hypoglycemia", "Peripheral edema", "Hyperkalemia"],
+    "answer": "A",
+    "rationale": "Rapid weight loss can increase the risk of gallbladder disease."
+  },
+  {
+    "id": 66,
+    "question": "Which insulin has the fastest onset of action?",
+    "options": ["Lispro", "Regular", "NPH", "Glargine"],
+    "answer": "A",
+    "rationale": "Lispro is a rapid-acting analog with very quick onset."
+  },
+  {
+    "id": 67,
+    "question": "Which medication may worsen osteoporosis risk?",
+    "options": ["Pioglitazone", "Metformin", "Empagliflozin", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "TZDs are associated with increased fracture risk, especially in women."
+  },
+  {
+    "id": 68,
+    "question": "Which drug requires dose reduction when combined with sulfonylureas?",
+    "options": ["GLP-1 receptor agonists", "Acarbose", "Colesevelam", "Bromocriptine"],
+    "answer": "A",
+    "rationale": "GLP-1 agonists can increase hypoglycemia risk when combined with secretagogues."
+  },
+  {
+    "id": 69,
+    "question": "Which insulin is preferred for continuous subcutaneous insulin infusion (pump)?",
+    "options": ["Lispro", "NPH", "70/30 mix", "Degludec"],
+    "answer": "A",
+    "rationale": "Rapid-acting analogs like lispro are standard for insulin pumps."
+  },
+  {
+    "id": 70,
+    "question": "Which condition is a contraindication to metformin?",
+    "options": ["Severe renal failure (eGFR <30)", "Mild hypertension", "Obesity", "Dyslipidemia"],
+    "answer": "A",
+    "rationale": "Severe renal impairment increases the risk of lactic acidosis."
+  },
+  {
+    "id": 71,
+    "question": "Which antidiabetic agent can lower blood pressure?",
+    "options": ["Empagliflozin", "Glibenclamide", "NPH insulin", "Repaglinide"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors cause osmotic diuresis and natriuresis, reducing BP."
+  },
+  {
+    "id": 72,
+    "question": "Which drug class should be avoided in recurrent genital infections?",
+    "options": ["SGLT2 inhibitors", "Metformin", "DPP-4 inhibitors", "TZDs"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors increase the risk of genital mycotic infections."
+  },
+  {
+    "id": 73,
+    "question": "Which insulin is typically used to correct high glucose before meals?",
+    "options": ["Lispro", "Glargine", "NPH", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Lispro is used as rapid-acting correctional insulin."
+  },
+  {
+    "id": 74,
+    "question": "Which antidiabetic drug acts through a nuclear receptor?",
+    "options": ["Pioglitazone", "Metformin", "Acarbose", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "TZDs activate the PPAR-γ nuclear receptor."
+  },
+  {
+    "id": 75,
+    "question": "Which agent is most likely to cause hypoglycemia at night?",
+    "options": ["NPH insulin", "Glargine", "Sitagliptin", "Dapagliflozin"],
+    "answer": "A",
+    "rationale": "NPH has a pronounced peak that can cause nocturnal hypoglycemia."
+  },
+  {
+    "id": 76,
+    "question": "Which drug is safest for post-meal glucose control without hypoglycemia?",
+    "options": ["Acarbose", "Gliclazide", "Regular insulin", "NPH"],
+    "answer": "A",
+    "rationale": "Acarbose delays carbohydrate absorption and rarely causes hypoglycemia alone."
+  },
+  {
+    "id": 77,
+    "question": "Which insulin type should never be mixed with others in the same syringe?",
+    "options": ["Glargine", "NPH", "Regular", "Lispro"],
+    "answer": "A",
+    "rationale": "Glargine must not be mixed due to pH incompatibility."
+  },
+  {
+    "id": 78,
+    "question": "Which antidiabetic drug improves insulin sensitivity in muscle and adipose tissue?",
+    "options": ["Pioglitazone", "Repaglinide", "Acarbose", "Sitagliptin"],
+    "answer": "A",
+    "rationale": "TZDs enhance peripheral insulin sensitivity via PPAR-γ activation."
+  },
+  {
+    "id": 79,
+    "question": "Which drug may cause orthostatic hypotension?",
+    "options": ["Bromocriptine-QR", "Metformin", "Glargine", "Linagliptin"],
+    "answer": "A",
+    "rationale": "Bromocriptine can lower blood pressure and cause dizziness."
+  },
+  {
+    "id": 80,
+    "question": "Which insulin is most stable with the least day-to-day variability?",
+    "options": ["Degludec", "NPH", "Regular", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Insulin degludec has ultra-long, very stable pharmacokinetics."
+  },
+  {
+    "id": 81,
+    "question": "Which insulin most closely mimics physiologic basal secretion?",
+    "options": ["Degludec", "Regular", "70/30 mix", "NPH"],
+    "answer": "A",
+    "rationale": "Degludec provides a very flat and stable basal profile over >24 hours."
+  },
+  {
+    "id": 82,
+    "question": "Which antidiabetic class primarily acts in the proximal renal tubule?",
+    "options": ["SGLT2 inhibitors", "DPP-4 inhibitors", "Sulfonylureas", "TZDs"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors block glucose reabsorption in the proximal tubule."
+  },
+  {
+    "id": 83,
+    "question": "Which medication reduces hepatic glucose output without increasing insulin secretion?",
+    "options": ["Metformin", "Repaglinide", "Glibenclamide", "Glargine"],
+    "answer": "A",
+    "rationale": "Metformin suppresses hepatic gluconeogenesis without stimulating insulin."
+  },
+  {
+    "id": 84,
+    "question": "Which drug is most likely to cause postprandial hypoglycemia if meals are skipped?",
+    "options": ["Repaglinide", "Acarbose", "Sitagliptin", "Empagliflozin"],
+    "answer": "A",
+    "rationale": "Meglitinides are meal-dependent secretagogues."
+  },
+  {
+    "id": 85,
+    "question": "Which adverse effect is characteristic of bromocriptine-QR?",
+    "options": ["Orthostatic hypotension", "Genital infection", "Severe hypoglycemia", "Peripheral edema"],
+    "answer": "A",
+    "rationale": "Bromocriptine can lower blood pressure and cause dizziness on standing."
+  },
+  {
+    "id": 86,
+    "question": "Which drug class is contraindicated in type 1 diabetes?",
+    "options": ["Sulfonylureas", "SGLT2 inhibitors", "GLP-1 agonists", "Metformin"],
+    "answer": "A",
+    "rationale": "Sulfonylureas require functioning beta cells and are ineffective in T1D."
+  },
+  {
+    "id": 87,
+    "question": "Which insulin is most appropriate for treating diabetic ketoacidosis?",
+    "options": ["IV regular insulin", "Glargine", "Lispro subcutaneous", "NPH"],
+    "answer": "A",
+    "rationale": "Continuous IV regular insulin is standard in DKA management."
+  },
+  {
+    "id": 88,
+    "question": "Which drug is associated with increased risk of genital mycotic infections?",
+    "options": ["Dapagliflozin", "Metformin", "Sitagliptin", "Pioglitazone"],
+    "answer": "A",
+    "rationale": "Glycosuria with SGLT2 inhibitors predisposes to fungal infections."
+  },
+  {
+    "id": 89,
+    "question": "Which insulin formulation should never be mixed with others?",
+    "options": ["Glargine", "Regular", "NPH", "Lispro"],
+    "answer": "A",
+    "rationale": "Glargine has an acidic pH and precipitates if mixed."
+  },
+  {
+    "id": 90,
+    "question": "Which antidiabetic drug may increase bone fracture risk?",
+    "options": ["Pioglitazone", "Metformin", "Semaglutide", "Linagliptin"],
+    "answer": "A",
+    "rationale": "TZDs are associated with decreased bone density and higher fracture risk."
+  },
+  {
+    "id": 91,
+    "question": "Which class is most effective for post-meal glucose spikes?",
+    "options": ["Meglitinides", "Basal insulin", "TZDs", "SGLT2 inhibitors"],
+    "answer": "A",
+    "rationale": "Meglitinides rapidly stimulate insulin around meals."
+  },
+  {
+    "id": 92,
+    "question": "Which drug has minimal renal elimination?",
+    "options": ["Linagliptin", "Sitagliptin", "Metformin", "Canagliflozin"],
+    "answer": "A",
+    "rationale": "Linagliptin is mainly excreted via the biliary route."
+  },
+  {
+    "id": 93,
+    "question": "Which medication should be paused during acute illness with dehydration?",
+    "options": ["SGLT2 inhibitors", "Metformin", "Insulin glargine", "Acarbose"],
+    "answer": "A",
+    "rationale": "SGLT2 inhibitors increase risk of volume depletion and euglycemic DKA during illness."
+  },
+  {
+    "id": 94,
+    "question": "Which insulin has the greatest day-to-day variability?",
+    "options": ["NPH", "Glargine", "Degludec", "Lispro"],
+    "answer": "A",
+    "rationale": "NPH has a pronounced peak and variable absorption."
+  },
+  {
+    "id": 95,
+    "question": "Which drug class works best in obese patients seeking weight loss?",
+    "options": ["GLP-1 receptor agonists", "Sulfonylureas", "TZDs", "Basal insulin"],
+    "answer": "A",
+    "rationale": "GLP-1 agonists reduce appetite and promote weight loss."
+  },
+  {
+    "id": 96,
+    "question": "Which insulin is most appropriate for meal bolus in pump therapy?",
+    "options": ["Lispro", "NPH", "Glargine", "70/30 mix"],
+    "answer": "A",
+    "rationale": "Rapid-acting analogs like lispro are standard for pumps."
+  },
+  {
+    "id": 97,
+    "question": "Which antidiabetic drug can increase triglyceride levels?",
+    "options": ["Colesevelam", "Metformin", "Empagliflozin", "Semaglutide"],
+    "answer": "A",
+    "rationale": "Bile acid sequestrants may raise triglycerides."
+  },
+  {
+    "id": 98,
+    "question": "Which agent should be avoided in severe liver disease?",
+    "options": ["Acarbose", "Metformin", "Linagliptin", "Insulin glargine"],
+    "answer": "A",
+    "rationale": "High-dose acarbose can elevate liver enzymes."
+  },
+  {
+    "id": 99,
+    "question": "Which insulin is typically started first in hospitalized non-ICU patients?",
+    "options": ["Basal-bolus regimen", "Sliding scale only", "70/30 mix", "Oral agents"],
+    "answer": "A",
+    "rationale": "Basal-bolus insulin provides better control than sliding scale alone."
+  },
+  {
+    "id": 100,
+    "question": "Which antidiabetic agent provides cardiovascular benefit in patients with ASCVD?",
+    "options": ["Empagliflozin", "Glibenclamide", "NPH insulin", "Repaglinide"],
+    "answer": "A",
+    "rationale": "Empagliflozin has proven reduction in CV mortality in high-risk patients."
+  }
+]
+
+
+

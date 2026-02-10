@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 1,
+    "question": "A 55-year-old man with hypertension and gout is started on medication. Which drug should be avoided?",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Losartan", "Ramipril"],
+    "answer": "B",
+    "rationale": "Thiazide diuretics reduce uric acid excretion, predisposing to gout attacks."
+  },
+  {
+    "id": 2,
+    "question": "Which antihypertensive is preferred in pregnancy?",
+    "options": ["Lisinopril", "Methyldopa", "Losartan", "Aliskiren"],
+    "answer": "B",
+    "rationale": "Methyldopa has the longest safety record and is first-line for chronic hypertension in pregnancy."
+  },
+  {
+    "id": 3,
+    "question": "A patient on lisinopril develops a persistent dry cough. What is the best alternative therapy?",
+    "options": ["Increase dose", "Add a diuretic", "Switch to an ARB", "Add clonidine"],
+    "answer": "C",
+    "rationale": "ACE inhibitors increase bradykinin, causing cough; ARBs provide similar benefit without this effect."
+  },
+  {
+    "id": 4,
+    "question": "Which antihypertensive is most likely to cause ankle edema?",
+    "options": ["Propranolol", "Amlodipine", "Spironolactone", "Hydralazine"],
+    "answer": "B",
+    "rationale": "Dihydropyridine calcium channel blockers cause precapillary arteriolar dilation leading to dependent edema."
+  },
+  {
+    "id": 5,
+    "question": "Which drug works by blocking L-type calcium channels in vascular smooth muscle?",
+    "options": ["Verapamil", "Amlodipine", "Metoprolol", "Clonidine"],
+    "answer": "B",
+    "rationale": "Dihydropyridine calcium channel blockers are selective for vascular smooth muscle."
+  },
+  {
+    "id": 6,
+    "question": "A patient with asthma and hypertension should avoid which antihypertensive?",
+    "options": ["Metoprolol", "Propranolol", "Amlodipine", "Losartan"],
+    "answer": "B",
+    "rationale": "Nonselective beta-blockers block β2 receptors and may precipitate bronchospasm."
+  },
+  {
+    "id": 7,
+    "question": "Which diuretic is most likely to cause ototoxicity?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Spironolactone", "Amiloride"],
+    "answer": "B",
+    "rationale": "Loop diuretics can damage the cochlea, especially when given intravenously at high doses."
+  },
+  {
+    "id": 8,
+    "question": "A patient on spironolactone develops gynecomastia. What is the best alternative?",
+    "options": ["Increase dose", "Switch to eplerenone", "Switch to furosemide", "Add clonidine"],
+    "answer": "B",
+    "rationale": "Eplerenone is a selective mineralocorticoid receptor antagonist with minimal anti-androgen effects."
+  },
+  {
+    "id": 9,
+    "question": "Which drug decreases blood pressure by reducing sympathetic outflow from the brain?",
+    "options": ["Clonidine", "Prazosin", "Losartan", "Hydralazine"],
+    "answer": "A",
+    "rationale": "Clonidine is a central α2-agonist that decreases sympathetic tone."
+  },
+  {
+    "id": 10,
+    "question": "A patient abruptly stops clonidine and presents with severe hypertension. What is this phenomenon called?",
+    "options": ["Drug tolerance", "Reflex tachycardia", "Rebound hypertension", "Idiosyncratic reaction"],
+    "answer": "C",
+    "rationale": "Abrupt withdrawal of clonidine causes a surge in sympathetic activity leading to rebound hypertension."
+  },
+  {
+    "id": 11,
+    "question": "Which drug directly opens potassium channels in vascular smooth muscle?",
+    "options": ["Hydralazine", "Minoxidil", "Nitroprusside", "Nitroglycerin"],
+    "answer": "B",
+    "rationale": "Minoxidil activates ATP-sensitive potassium channels causing arteriolar vasodilation."
+  },
+  {
+    "id": 12,
+    "question": "A patient on minoxidil complains of excessive hair growth. What is this called?",
+    "options": ["Alopecia", "Hirsutism", "Hypertrichosis", "Gynecomastia"],
+    "answer": "C",
+    "rationale": "Minoxidil stimulates hair follicles and causes generalized hair growth (hypertrichosis)."
+  },
+  {
+    "id": 13,
+    "question": "Which drug is best for hypertensive emergency?",
+    "options": ["Oral amlodipine", "IV sodium nitroprusside", "Oral hydrochlorothiazide", "Oral losartan"],
+    "answer": "B",
+    "rationale": "Sodium nitroprusside is a fast-acting, titratable IV vasodilator for acute BP control."
+  },
+  {
+    "id": 14,
+    "question": "Which drug inhibits conversion of angiotensin I to angiotensin II?",
+    "options": ["Losartan", "Captopril", "Aliskiren", "Propranolol"],
+    "answer": "B",
+    "rationale": "ACE inhibitors block angiotensin-converting enzyme, preventing angiotensin II formation."
+  },
+  {
+    "id": 15,
+    "question": "Which drug blocks the AT1 receptor?",
+    "options": ["Ramipril", "Valsartan", "Aliskiren", "Methyldopa"],
+    "answer": "B",
+    "rationale": "Valsartan is an angiotensin II receptor blocker acting at the AT1 receptor."
+  },
+  {
+    "id": 16,
+    "question": "Which β-blocker also blocks α1 receptors?",
+    "options": ["Metoprolol", "Propranolol", "Carvedilol", "Atenolol"],
+    "answer": "C",
+    "rationale": "Carvedilol has combined α1 and β-blocking properties."
+  },
+  {
+    "id": 17,
+    "question": "A patient with heart failure should avoid which calcium channel blocker?",
+    "options": ["Amlodipine", "Verapamil", "Nifedipine", "Felodipine"],
+    "answer": "B",
+    "rationale": "Non-dihydropyridine CCBs like verapamil have negative inotropic effects that worsen heart failure."
+  },
+  {
+    "id": 18,
+    "question": "Which side effect is classic for hydralazine?",
+    "options": ["Dry cough", "Drug-induced lupus", "Hyperkalemia", "Bronchospasm"],
+    "answer": "B",
+    "rationale": "Chronic hydralazine therapy is associated with drug-induced lupus syndrome."
+  },
+  {
+    "id": 19,
+    "question": "Which drug lowers blood pressure mainly by reducing preload?",
+    "options": ["Amlodipine", "Nitroglycerin", "Metoprolol", "Losartan"],
+    "answer": "B",
+    "rationale": "Nitroglycerin is primarily a venodilator, reducing venous return (preload)."
+  },
+  {
+    "id": 20,
+    "question": "Which drug reduces renin release from the kidney?",
+    "options": ["Metoprolol", "Furosemide", "Spironolactone", "Hydralazine"],
+    "answer": "A",
+    "rationale": "β1-blockers suppress renin secretion from juxtaglomerular cells."
+  },
+
+  {
+    "id": 21,
+    "question": "A 62-year-old man with hypertension and bilateral renal artery stenosis is started on lisinopril. Two days later his creatinine rises sharply. The best explanation is:",
+    "options": [
+      "Increased renal perfusion pressure",
+      "Loss of efferent arteriolar constriction",
+      "Direct tubular toxicity",
+      "Increased aldosterone production"
+    ],
+    "answer": "B",
+    "rationale": "ACE inhibitors dilate the efferent arteriole, reducing intraglomerular pressure in renal artery stenosis."
+  },
+  {
+    "id": 22,
+    "question": "Which drug is most appropriate for resistant hypertension with hypokalemia?",
+    "options": [
+      "Hydrochlorothiazide",
+      "Spironolactone",
+      "Furosemide",
+      "Amlodipine"
+    ],
+    "answer": "B",
+    "rationale": "Spironolactone treats hyperaldosteronism and corrects hypokalemia."
+  },
+  {
+    "id": 23,
+    "question": "A patient on long-term minoxidil develops edema and tachycardia. The best combination therapy is:",
+    "options": [
+      "Add hydrochlorothiazide only",
+      "Add furosemide and a beta-blocker",
+      "Add ACE inhibitor only",
+      "Increase minoxidil dose"
+    ],
+    "answer": "B",
+    "rationale": "Minoxidil causes fluid retention (requiring a loop diuretic) and reflex tachycardia (requiring a beta-blocker)."
+  },
+  {
+    "id": 24,
+    "question": "Which beta-blocker is most appropriate in a patient with hypertension and heart failure with reduced ejection fraction?",
+    "options": [
+      "Propranolol",
+      "Metoprolol succinate",
+      "Atenolol",
+      "Esmolol"
+    ],
+    "answer": "B",
+    "rationale": "Metoprolol succinate has proven mortality benefit in HFrEF."
+  },
+  {
+    "id": 25,
+    "question": "A diabetic hypertensive patient develops hyperkalemia after starting an ARB. The most likely risk factor is:",
+    "options": [
+      "Thiazide use",
+      "Chronic kidney disease",
+      "Low-salt diet",
+      "Obesity"
+    ],
+    "answer": "B",
+    "rationale": "Reduced renal potassium excretion in CKD predisposes to ARB-induced hyperkalemia."
+  },
+  {
+    "id": 26,
+    "question": "Which drug must be avoided in pregnancy due to fetal renal toxicity?",
+    "options": [
+      "Methyldopa",
+      "Labetalol",
+      "Losartan",
+      "Nifedipine"
+    ],
+    "answer": "C",
+    "rationale": "ARBs such as losartan are teratogenic and contraindicated in pregnancy."
+  },
+  {
+    "id": 27,
+    "question": "A patient with hypertension and second-degree AV block should avoid:",
+    "options": [
+      "Amlodipine",
+      "Hydrochlorothiazide",
+      "Verapamil",
+      "Losartan"
+    ],
+    "answer": "C",
+    "rationale": "Non-dihydropyridine CCBs slow AV conduction and can worsen heart block."
+  },
+  {
+    "id": 28,
+    "question": "Which diuretic is most likely to worsen hypercalcemia?",
+    "options": [
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Spironolactone",
+      "Amiloride"
+    ],
+    "answer": "B",
+    "rationale": "Thiazides increase renal calcium reabsorption."
+  },
+  {
+    "id": 29,
+    "question": "Which antihypertensive is best for a patient with benign prostatic hyperplasia?",
+    "options": [
+      "Doxazosin",
+      "Metoprolol",
+      "Amlodipine",
+      "Hydrochlorothiazide"
+    ],
+    "answer": "A",
+    "rationale": "Alpha-1 blockers relax the bladder neck and improve urinary flow."
+  },
+  {
+    "id": 30,
+    "question": "A patient abruptly stops clonidine and presents with severe hypertension, headache, and tachycardia. Best acute management is:",
+    "options": [
+      "Restart clonidine",
+      "Give IV nitroprusside only",
+      "Give labetalol only",
+      "Observe without treatment"
+    ],
+    "answer": "A",
+    "rationale": "Rebound hypertension from clonidine withdrawal is treated by restarting and tapering the drug."
+  },
+  {
+    "id": 31,
+    "question": "Which drug increases bradykinin levels?",
+    "options": [
+      "Losartan",
+      "Candesartan",
+      "Ramipril",
+      "Aliskiren"
+    ],
+    "answer": "C",
+    "rationale": "ACE inhibitors increase bradykinin by blocking its degradation."
+  },
+  {
+    "id": 32,
+    "question": "Which antihypertensive is most likely to cause drug-induced lupus?",
+    "options": [
+      "Hydralazine",
+      "Spironolactone",
+      "Amlodipine",
+      "Labetalol"
+    ],
+    "answer": "A",
+    "rationale": "Chronic hydralazine therapy is a classic cause of drug-induced lupus."
+  },
+  {
+    "id": 33,
+    "question": "A patient with hypertension and chronic asthma should avoid:",
+    "options": [
+      "Nebivolol",
+      "Metoprolol",
+      "Propranolol",
+      "Amlodipine"
+    ],
+    "answer": "C",
+    "rationale": "Nonselective beta-blockers can precipitate bronchospasm."
+  },
+  {
+    "id": 34,
+    "question": "Which drug primarily reduces afterload?",
+    "options": [
+      "Nitroglycerin",
+      "Amlodipine",
+      "Furosemide",
+      "Spironolactone"
+    ],
+    "answer": "B",
+    "rationale": "Amlodipine is an arterial vasodilator that lowers systemic vascular resistance."
+  },
+  {
+    "id": 35,
+    "question": "Which drug is first-line in hypertensive emergency with pulmonary edema?",
+    "options": [
+      "Nitroprusside",
+      "Nitroglycerin",
+      "Hydralazine",
+      "Oral amlodipine"
+    ],
+    "answer": "B",
+    "rationale": "Nitroglycerin reduces preload rapidly by venodilation."
+  },
+  {
+    "id": 36,
+    "question": "A patient develops persistent dry cough on an ACE inhibitor. Best switch is:",
+    "options": [
+      "Increase dose",
+      "Add a thiazide",
+      "Switch to an ARB",
+      "Add clonidine"
+    ],
+    "answer": "C",
+    "rationale": "ARBs do not increase bradykinin and are better tolerated."
+  },
+  {
+    "id": 37,
+    "question": "Which drug directly inhibits renin?",
+    "options": [
+      "Captopril",
+      "Losartan",
+      "Aliskiren",
+      "Spironolactone"
+    ],
+    "answer": "C",
+    "rationale": "Aliskiren is a direct renin inhibitor."
+  },
+  {
+    "id": 38,
+    "question": "Which combination is dangerous and should be avoided?",
+    "options": [
+      "ACE inhibitor plus thiazide",
+      "ARB plus spironolactone",
+      "ACE inhibitor plus ARB",
+      "Beta-blocker plus amlodipine"
+    ],
+    "answer": "C",
+    "rationale": "Dual RAS blockade increases risk of hyperkalemia and acute kidney injury without added benefit."
+  },
+  {
+    "id": 39,
+    "question": "Which side effect is most characteristic of verapamil?",
+    "options": [
+      "Ankle edema",
+      "Constipation",
+      "Hypertrichosis",
+      "Gynecomastia"
+    ],
+    "answer": "B",
+    "rationale": "Verapamil commonly causes constipation due to its effects on gut motility."
+  },
+  {
+    "id": 40,
+    "question": "Which antihypertensive reduces renin release from the kidney?",
+    "options": [
+      "Furosemide",
+      "Metoprolol",
+      "Hydralazine",
+      "Amlodipine"
+    ],
+    "answer": "B",
+    "rationale": "Beta-1 blockade suppresses renin secretion from juxtaglomerular cells."
+  },
+  {
+    "id": 41,
+    "question": "A 58-year-old man with hypertension, diabetes, and microalbuminuria has BP 152/94 mmHg. Which drug is most protective for his kidneys?",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Lisinopril", "Metoprolol"],
+    "answer": "C",
+    "rationale": "ACE inhibitors reduce intraglomerular pressure and slow progression of diabetic nephropathy."
+  },
+  {
+    "id": 42,
+    "question": "A 70-year-old woman with hypertension and osteoporosis needs BP control. Which drug is most beneficial for her bones?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Amlodipine"],
+    "answer": "B",
+    "rationale": "Thiazides decrease urinary calcium excretion and help preserve bone mineral density."
+  },
+  {
+    "id": 43,
+    "question": "A 60-year-old man with hypertension develops bilateral ankle edema after starting a new medication. Which drug is most likely responsible?",
+    "options": ["Losartan", "Amlodipine", "Metoprolol", "Ramipril"],
+    "answer": "B",
+    "rationale": "Dihydropyridine calcium channel blockers cause precapillary arteriolar dilation leading to dependent edema."
+  },
+  {
+    "id": 44,
+    "question": "A 45-year-old woman with hypertension wants to become pregnant. Which medication should be stopped immediately?",
+    "options": ["Methyldopa", "Labetalol", "Nifedipine", "Losartan"],
+    "answer": "D",
+    "rationale": "ARBs are teratogenic and contraindicated in pregnancy because of fetal renal toxicity."
+  },
+  {
+    "id": 45,
+    "question": "A patient with resistant hypertension and low potassium despite diuretics most likely has:",
+    "options": [
+      "Primary hyperaldosteronism",
+      "Renal artery stenosis",
+      "Thyrotoxicosis",
+      "Pheochromocytoma"
+    ],
+    "answer": "A",
+    "rationale": "Resistant hypertension with hypokalemia is classically caused by primary hyperaldosteronism."
+  },
+  {
+    "id": 46,
+    "question": "Which drug is best for the patient described in the previous question?",
+    "options": ["Hydrochlorothiazide", "Spironolactone", "Amlodipine", "Metoprolol"],
+    "answer": "B",
+    "rationale": "Spironolactone antagonizes aldosterone and corrects hypokalemia in primary hyperaldosteronism."
+  },
+  {
+    "id": 47,
+    "question": "A 65-year-old man with hypertension and chronic asthma needs BP control. Which drug should be avoided?",
+    "options": ["Nebivolol", "Amlodipine", "Propranolol", "Losartan"],
+    "answer": "C",
+    "rationale": "Nonselective beta-blockers block β2 receptors and can precipitate bronchospasm."
+  },
+  {
+    "id": 48,
+    "question": "A 55-year-old man with hypertension and heart failure with reduced ejection fraction (EF 30%). Which drug improves survival?",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Metoprolol succinate", "Diltiazem"],
+    "answer": "C",
+    "rationale": "Metoprolol succinate is an evidence-based beta-blocker that reduces mortality in HFrEF."
+  },
+  {
+    "id": 49,
+    "question": "A 62-year-old woman develops persistent dry cough after starting antihypertensive therapy. Best next step?",
+    "options": ["Increase dose", "Add diuretic", "Switch to ARB", "Stop all medications"],
+    "answer": "C",
+    "rationale": "ACE inhibitors increase bradykinin causing cough; switching to an ARB preserves benefit without this side effect."
+  },
+  {
+    "id": 50,
+    "question": "A patient on clonidine forgets his medication for 2 days and presents with BP 220/120 mmHg, headache, and tachycardia. Best immediate step?",
+    "options": ["Give nitroprusside", "Restart clonidine", "Give amlodipine", "Observe only"],
+    "answer": "B",
+    "rationale": "Rebound hypertension from clonidine withdrawal is treated by restarting and gradually tapering the drug."
+  },
+  {
+    "id": 51,
+    "question": "A 72-year-old man with hypertension and benign prostatic hyperplasia complains of weak urine stream. Best BP medication?",
+    "options": ["Doxazosin", "Metoprolol", "Furosemide", "Amlodipine"],
+    "answer": "A",
+    "rationale": "Alpha-1 blockers relax the bladder neck and improve urinary flow in BPH."
+  },
+  {
+    "id": 52,
+    "question": "A patient on hydralazine for 2 years presents with joint pain, fever, and positive ANA. Most likely diagnosis?",
+    "options": ["Rheumatoid arthritis", "Drug-induced lupus", "Gout", "Systemic lupus erythematosus"],
+    "answer": "B",
+    "rationale": "Chronic hydralazine therapy is a classic cause of drug-induced lupus."
+  },
+  {
+    "id": 53,
+    "question": "A 58-year-old man with hypertension develops severe constipation after starting a new drug. Which is most likely?",
+    "options": ["Amlodipine", "Verapamil", "Metoprolol", "Losartan"],
+    "answer": "B",
+    "rationale": "Verapamil commonly causes constipation due to decreased gastrointestinal motility."
+  },
+  {
+    "id": 54,
+    "question": "A 65-year-old man with hypertension and second-degree AV block should avoid:",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Verapamil", "Losartan"],
+    "answer": "C",
+    "rationale": "Non-dihydropyridine calcium channel blockers slow AV conduction and can worsen heart block."
+  },
+  {
+    "id": 55,
+    "question": "A patient with hypertensive emergency and pulmonary edema arrives in ICU. Best initial IV drug?",
+    "options": ["Hydralazine", "Nitroprusside", "Nitroglycerin", "Oral amlodipine"],
+    "answer": "C",
+    "rationale": "Nitroglycerin is a potent venodilator that rapidly reduces preload in pulmonary edema."
+  },
+  {
+    "id": 56,
+    "question": "A patient on minoxidil develops severe edema and tachycardia. Best combination therapy?",
+    "options": [
+      "Add hydrochlorothiazide only",
+      "Add furosemide and beta-blocker",
+      "Add ACE inhibitor",
+      "Increase minoxidil dose"
+    ],
+    "answer": "B",
+    "rationale": "Minoxidil causes fluid retention (needs loop diuretic) and reflex tachycardia (needs beta-blocker)."
+  },
+  {
+    "id": 57,
+    "question": "A diabetic hypertensive patient develops hyperkalemia after starting an ARB. Most likely risk factor?",
+    "options": ["Obesity", "Chronic kidney disease", "Low salt intake", "Smoking"],
+    "answer": "B",
+    "rationale": "Reduced renal potassium excretion in CKD predisposes to ARB-related hyperkalemia."
+  },
+  {
+    "id": 58,
+    "question": "Which drug should be avoided in a patient with gout?",
+    "options": ["Losartan", "Hydrochlorothiazide", "Amlodipine", "Ramipril"],
+    "answer": "B",
+    "rationale": "Thiazide diuretics increase serum uric acid and can precipitate gout attacks."
+  },
+  {
+    "id": 59,
+    "question": "A 60-year-old woman with hypertension and osteoporosis is started on a diuretic. Which one is most bone-friendly?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Amiloride"],
+    "answer": "B",
+    "rationale": "Thiazides reduce urinary calcium loss and help preserve bone density."
+  },
+  {
+    "id": 60,
+    "question": "A patient has hypertension and chronic kidney disease (eGFR 25 mL/min). Which drug is still beneficial and protective?",
+    "options": ["Amlodipine", "Ramipril", "Propranolol", "Hydrochlorothiazide"],
+    "answer": "B",
+    "rationale": "ACE inhibitors slow CKD progression by reducing intraglomerular pressure, with careful monitoring."
+  },
+  {
+    "id": 61,
+    "question": "A 58-year-old man with hypertension, diabetes, and microalbuminuria. Which drug is most renoprotective?",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Lisinopril", "Metoprolol"],
+    "answer": "C",
+    "rationale": "ACE inhibitors reduce intraglomerular pressure and slow diabetic nephropathy."
+  },
+  {
+    "id": 62,
+    "question": "A 70-year-old woman with hypertension and osteoporosis needs a diuretic. Which is best?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Amiloride"],
+    "answer": "B",
+    "rationale": "Thiazides reduce urinary calcium loss and help preserve bone density."
+  },
+  {
+    "id": 63,
+    "question": "A patient has resistant hypertension with persistent hypokalemia. Most likely diagnosis?",
+    "options": [
+      "Renal artery stenosis",
+      "Primary hyperaldosteronism",
+      "Thyrotoxicosis",
+      "Pheochromocytoma"
+    ],
+    "answer": "B",
+    "rationale": "Resistant hypertension with hypokalemia is classic for primary hyperaldosteronism."
+  },
+  {
+    "id": 64,
+    "question": "Best drug for primary hyperaldosteronism?",
+    "options": ["Hydrochlorothiazide", "Spironolactone", "Amlodipine", "Metoprolol"],
+    "answer": "B",
+    "rationale": "Spironolactone antagonizes aldosterone and corrects hypokalemia."
+  },
+  {
+    "id": 65,
+    "question": "A patient with hypertension and chronic asthma should avoid which drug?",
+    "options": ["Nebivolol", "Amlodipine", "Propranolol", "Losartan"],
+    "answer": "C",
+    "rationale": "Nonselective beta-blockers block β2 receptors and may trigger bronchospasm."
+  },
+  {
+    "id": 66,
+    "question": "A patient with hypertension and HFrEF (EF 30%). Which beta-blocker reduces mortality?",
+    "options": ["Atenolol", "Metoprolol succinate", "Propranolol", "Esmolol"],
+    "answer": "B",
+    "rationale": "Metoprolol succinate is evidence-based for mortality reduction in HFrEF."
+  },
+  {
+    "id": 67,
+    "question": "A patient develops persistent dry cough on an ACE inhibitor. Next best step?",
+    "options": ["Increase dose", "Add diuretic", "Switch to ARB", "Stop all medications"],
+    "answer": "C",
+    "rationale": "ARBs provide similar benefit without bradykinin-related cough."
+  },
+  {
+    "id": 68,
+    "question": "Abrupt clonidine cessation leads to BP 220/120 mmHg. Immediate management?",
+    "options": ["Give nitroprusside", "Restart clonidine", "Give amlodipine", "Observe"],
+    "answer": "B",
+    "rationale": "Rebound hypertension is treated by restarting and tapering clonidine."
+  },
+  {
+    "id": 69,
+    "question": "A hypertensive patient with BPH and weak urine stream. Best BP drug?",
+    "options": ["Doxazosin", "Metoprolol", "Furosemide", "Amlodipine"],
+    "answer": "A",
+    "rationale": "Alpha-1 blockers improve urinary flow by relaxing the bladder neck."
+  },
+  {
+    "id": 70,
+    "question": "After 2 years of hydralazine, patient develops fever, arthralgia, and positive ANA. Diagnosis?",
+    "options": ["Rheumatoid arthritis", "Drug-induced lupus", "Gout", "Systemic lupus erythematosus"],
+    "answer": "B",
+    "rationale": "Chronic hydralazine therapy is a classic cause of drug-induced lupus."
+  },
+  {
+    "id": 71,
+    "question": "Severe constipation after starting a new BP drug. Most likely medication?",
+    "options": ["Amlodipine", "Verapamil", "Metoprolol", "Losartan"],
+    "answer": "B",
+    "rationale": "Verapamil commonly causes constipation due to reduced gut motility."
+  },
+  {
+    "id": 72,
+    "question": "A patient with hypertension and second-degree AV block should avoid:",
+    "options": ["Amlodipine", "Hydrochlorothiazide", "Verapamil", "Losartan"],
+    "answer": "C",
+    "rationale": "Non-dihydropyridine CCBs slow AV conduction and can worsen heart block."
+  },
+  {
+    "id": 73,
+    "question": "Hypertensive emergency with pulmonary edema. First IV drug?",
+    "options": ["Hydralazine", "Nitroprusside", "Nitroglycerin", "Oral nifedipine"],
+    "answer": "C",
+    "rationale": "Nitroglycerin rapidly reduces preload via venodilation."
+  },
+  {
+    "id": 74,
+    "question": "Minoxidil causes edema and tachycardia. Best combination therapy?",
+    "options": [
+      "Hydrochlorothiazide only",
+      "Furosemide plus beta-blocker",
+      "ACE inhibitor only",
+      "Increase minoxidil dose"
+    ],
+    "answer": "B",
+    "rationale": "Loop diuretic treats fluid retention; beta-blocker treats reflex tachycardia."
+  },
+  {
+    "id": 75,
+    "question": "Diabetic patient on ARB develops hyperkalemia. Main risk factor?",
+    "options": ["Obesity", "Chronic kidney disease", "Low salt intake", "Smoking"],
+    "answer": "B",
+    "rationale": "Reduced renal potassium excretion in CKD increases risk of hyperkalemia."
+  },
+  {
+    "id": 76,
+    "question": "Which drug should be avoided in a hypertensive patient with gout?",
+    "options": ["Losartan", "Hydrochlorothiazide", "Amlodipine", "Ramipril"],
+    "answer": "B",
+    "rationale": "Thiazides increase serum uric acid and precipitate gout."
+  },
+  {
+    "id": 77,
+    "question": "Hypertension with eGFR 25 mL/min. Which drug remains renoprotective?",
+    "options": ["Amlodipine", "Ramipril", "Propranolol", "Hydrochlorothiazide"],
+    "answer": "B",
+    "rationale": "ACE inhibitors slow CKD progression with careful monitoring."
+  },
+  {
+    "id": 78,
+    "question": "Bilateral renal artery stenosis started on ACE inhibitor causes creatinine rise because of:",
+    "options": [
+      "Increased renal perfusion",
+      "Loss of efferent arteriolar constriction",
+      "Direct tubular toxicity",
+      "Increased aldosterone"
+    ],
+    "answer": "B",
+    "rationale": "ACE inhibitors dilate efferent arterioles, lowering glomerular filtration pressure."
+  },
+  {
+    "id": 79,
+    "question": "Which drug combination is dangerous and should be avoided?",
+    "options": [
+      "ACE inhibitor plus thiazide",
+      "ARB plus spironolactone",
+      "ACE inhibitor plus ARB",
+      "Beta-blocker plus amlodipine"
+    ],
+    "answer": "C",
+    "rationale": "Dual RAS blockade increases risk of hyperkalemia and acute kidney injury."
+  },
+  {
+    "id": 80,
+    "question": "Which drug increases bradykinin levels?",
+    "options": ["Losartan", "Candesartan", "Ramipril", "Aliskiren"],
+    "answer": "C",
+    "rationale": "ACE inhibitors raise bradykinin by preventing its breakdown."
+  },
+  {
+    "id": 81,
+    "question": "A 54-year-old man with HTN develops a persistent dry cough after starting a new medication. Which mechanism explains this?",
+    "options": ["AT1 receptor blockade", "Increased bradykinin", "Renin inhibition", "Calcium channel blockade", "α1 blockade"],
+    "answer": "B",
+    "rationale": "ACE inhibition increases bradykinin, which can cause dry cough and angioedema."
+  },
+  {
+    "id": 82,
+    "question": "A pregnant woman (20 weeks) has chronic hypertension. Best first-line medication?",
+    "options": ["Enalapril", "Losartan", "Methyldopa", "Aliskiren", "Spironolactone"],
+    "answer": "C",
+    "rationale": "Methyldopa (and also labetalol/nifedipine) is considered safe for chronic hypertension in pregnancy."
+  },
+  {
+    "id": 83,
+    "question": "A patient with bilateral renal artery stenosis is started on lisinopril and creatinine rises significantly. Why?",
+    "options": ["Afferent constriction", "Efferent dilation", "Increased aldosterone", "Tubular necrosis", "Increased renal prostaglandins"],
+    "answer": "B",
+    "rationale": "ACE inhibitors dilate the efferent arteriole, decreasing intraglomerular pressure and GFR in renal artery stenosis."
+  },
+  {
+    "id": 84,
+    "question": "A 58-year-old man with gout and HTN needs treatment. Which drug should be avoided?",
+    "options": ["Losartan", "Amlodipine", "Hydrochlorothiazide", "Lisinopril", "Diltiazem"],
+    "answer": "C",
+    "rationale": "Thiazides decrease uric acid excretion and can precipitate gout."
+  },
+  {
+    "id": 85,
+    "question": "A hypertensive patient with HFrEF (EF 30%) needs a β-blocker with proven mortality benefit.",
+    "options": ["Propranolol", "Atenolol", "Metoprolol succinate", "Sotalol", "Pindolol"],
+    "answer": "C",
+    "rationale": "Metoprolol succinate (also carvedilol, bisoprolol) reduces mortality in HFrEF."
+  },
+  {
+    "id": 86,
+    "question": "A patient develops ankle edema after starting antihypertensive therapy. Which drug is most likely?",
+    "options": ["Ramipril", "Amlodipine", "Spironolactone", "Metoprolol", "Clonidine"],
+    "answer": "B",
+    "rationale": "Dihydropyridine CCBs cause precapillary arteriolar dilation leading to dependent edema."
+  },
+  {
+    "id": 87,
+    "question": "A patient with asthma should avoid which antihypertensive?",
+    "options": ["Nebivolol", "Amlodipine", "Propranolol", "Losartan", "Hydrochlorothiazide"],
+    "answer": "C",
+    "rationale": "Nonselective β-blockers block β2 receptors and can cause bronchospasm."
+  },
+  {
+    "id": 88,
+    "question": "Which diuretic inhibits the Na⁺/Cl⁻ cotransporter in the distal convoluted tubule?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Amiloride", "Acetazolamide"],
+    "answer": "B",
+    "rationale": "Thiazides inhibit the Na+/Cl− cotransporter (NCC) in the DCT."
+  },
+  {
+    "id": 89,
+    "question": "A hypertensive patient on thiazide has U waves on ECG. Most likely electrolyte abnormality?",
+    "options": ["Hyperkalemia", "Hypokalemia", "Hypercalcemia", "Hypocalcemia", "Hypermagnesemia"],
+    "answer": "B",
+    "rationale": "Thiazides can cause hypokalemia; U waves are a classic ECG finding of hypokalemia."
+  },
+  {
+    "id": 90,
+    "question": "Which drug blocks epithelial sodium channels (ENaC) in the collecting duct?",
+    "options": ["Eplerenone", "Triamterene", "Hydrochlorothiazide", "Furosemide", "Losartan"],
+    "answer": "B",
+    "rationale": "Triamterene (and amiloride) blocks ENaC in the collecting duct, sparing potassium."
+  },
+  {
+    "id": 91,
+    "question": "A patient on spironolactone develops gynecomastia. Best alternative?",
+    "options": ["Amiloride", "Eplerenone", "Furosemide", "Hydrochlorothiazide", "Losartan"],
+    "answer": "B",
+    "rationale": "Eplerenone is a more selective mineralocorticoid receptor antagonist with fewer anti-androgen effects."
+  },
+  {
+    "id": 92,
+    "question": "A patient with second-degree AV block should avoid which drug?",
+    "options": ["Amlodipine", "Verapamil", "Hydrochlorothiazide", "Losartan", "Hydralazine"],
+    "answer": "B",
+    "rationale": "Non-dihydropyridine CCBs (verapamil/diltiazem) slow AV nodal conduction and can worsen heart block."
+  },
+  {
+    "id": 93,
+    "question": "A patient with hypertensive emergency and acute pulmonary edema: best initial IV agent?",
+    "options": ["Hydralazine", "Nitroglycerin", "Oral nifedipine", "Methyldopa", "Propranolol"],
+    "answer": "B",
+    "rationale": "Nitroglycerin rapidly reduces preload via venodilation, improving pulmonary edema."
+  },
+  {
+    "id": 94,
+    "question": "Which drug is a direct renin inhibitor?",
+    "options": ["Captopril", "Losartan", "Aliskiren", "Spironolactone", "Amlodipine"],
+    "answer": "C",
+    "rationale": "Aliskiren directly inhibits renin, reducing angiotensin I formation."
+  },
+  {
+    "id": 95,
+    "question": "Hydralazine is associated with which adverse effect?",
+    "options": ["Ototoxicity", "Drug-induced lupus", "Hyperkalemia", "Bradycardia", "Cyanide toxicity"],
+    "answer": "B",
+    "rationale": "Hydralazine can cause drug-induced lupus, especially with slow acetylator status and prolonged use."
+  },
+  {
+    "id": 96,
+    "question": "Minoxidil causes which characteristic adverse effect?",
+    "options": ["Dry cough", "Hypertrichosis", "Gynecomastia", "Constipation", "Ototoxicity"],
+    "answer": "B",
+    "rationale": "Minoxidil (K+ channel opener) can cause hypertrichosis and significant fluid retention."
+  },
+  {
+    "id": 97,
+    "question": "Sodium nitroprusside toxicity with prolonged use is due to accumulation of:",
+    "options": ["Methemoglobin", "Cyanide/thiocyanate", "Potassium", "Lactate", "Ammonia"],
+    "answer": "B",
+    "rationale": "Nitroprusside metabolism can produce cyanide; thiocyanate accumulation is also a concern with prolonged infusions."
+  },
+  {
+    "id": 98,
+    "question": "Which drug lowers BP primarily by decreasing sympathetic outflow from CNS?",
+    "options": ["Doxazosin", "Clonidine", "Amlodipine", "Losartan", "Furosemide"],
+    "answer": "B",
+    "rationale": "Clonidine is a central α2-agonist that decreases sympathetic outflow."
+  },
+  {
+    "id": 99,
+    "question": "Abrupt withdrawal of clonidine causes:",
+    "options": ["Orthostatic hypotension", "Rebound hypertension", "Hyperkalemia", "Cough", "Photosensitivity"],
+    "answer": "B",
+    "rationale": "Stopping clonidine suddenly causes sympathetic rebound with severe hypertension and tachycardia."
+  },
+  {
+    "id": 100,
+    "question": "A patient has HTN and BPH. Best antihypertensive choice to improve urinary symptoms?",
+    "options": ["Doxazosin", "Metoprolol", "Amlodipine", "Losartan", "Hydrochlorothiazide"],
+    "answer": "A",
+    "rationale": "α1-blockers relax smooth muscle in the bladder neck and prostate, improving urinary flow."
+  },
+  {
+    "id": 101,
+    "question": "Which diuretic inhibits NKCC2 in thick ascending limb?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Spironolactone", "Amiloride", "Mannitol"],
+    "answer": "B",
+    "rationale": "Loop diuretics inhibit the Na-K-2Cl cotransporter (NKCC2) in the thick ascending limb."
+  },
+  {
+    "id": 102,
+    "question": "Loop diuretics can cause:",
+    "options": ["Hypercalcemia", "Ototoxicity", "Gynecomastia", "Cough", "Lupus"],
+    "answer": "B",
+    "rationale": "Loop diuretics may cause ototoxicity, especially with high doses or rapid IV infusion."
+  },
+  {
+    "id": 103,
+    "question": "Which medication is contraindicated in pregnancy due to fetal renal dysgenesis?",
+    "options": ["Methyldopa", "Labetalol", "Nifedipine", "ACE inhibitors", "Hydralazine"],
+    "answer": "D",
+    "rationale": "ACE inhibitors (and ARBs) are teratogenic and can cause fetal renal dysgenesis/oligohydramnios."
+  },
+  {
+    "id": 104,
+    "question": "A patient on ACE inhibitor develops facial swelling and airway symptoms. Next step?",
+    "options": ["Switch to ARB only", "Continue drug, reassure", "Stop ACEi and treat angioedema", "Add thiazide", "Give spironolactone"],
+    "answer": "C",
+    "rationale": "ACEi-associated angioedema can be life-threatening; discontinue the ACE inhibitor and treat emergently."
+  },
+  {
+    "id": 105,
+    "question": "Which drug most directly reduces renin release?",
+    "options": ["Amlodipine", "Metoprolol", "Hydralazine", "Furosemide", "Nitroprusside"],
+    "answer": "B",
+    "rationale": "β1 blockade at juxtaglomerular cells decreases renin release."
+  },
+  {
+    "id": 106,
+    "question": "Non-DHP CCBs decrease BP mainly by:",
+    "options": ["Increasing venous capacitance only", "Decreasing SA/AV conduction and contractility", "Inhibiting aldosterone", "Blocking AT1 receptors", "Opening K+ channels"],
+    "answer": "B",
+    "rationale": "Verapamil and diltiazem decrease heart rate/contractility and slow AV nodal conduction."
+  },
+  {
+    "id": 107,
+    "question": "A patient with chronic kidney disease and proteinuria benefits most from:",
+    "options": ["Verapamil", "ACE inhibitor", "Hydralazine", "Alpha blocker", "Minoxidil"],
+    "answer": "B",
+    "rationale": "ACE inhibitors reduce proteinuria and slow CKD progression by lowering intraglomerular pressure."
+  },
+  {
+    "id": 108,
+    "question": "A patient on thiazide develops hyperglycemia. Best explanation?",
+    "options": [
+      "Decreased insulin secretion due to hypokalemia",
+      "Increased bradykinin",
+      "Increased renin release",
+      "Beta-2 blockade",
+      "Increased NO"
+    ],
+    "answer": "A",
+    "rationale": "Thiazide-induced hypokalemia impairs insulin secretion from pancreatic β-cells."
+  },
+  {
+    "id": 109,
+    "question": "Which drug class is most associated with reflex tachycardia?",
+    "options": ["Non-DHP CCBs", "Direct vasodilators (hydralazine/minoxidil)", "ACE inhibitors", "MR antagonists", "Central α2 agonists"],
+    "answer": "B",
+    "rationale": "Direct arteriolar vasodilators trigger baroreflex sympathetic activation causing tachycardia."
+  },
+  {
+    "id": 110,
+    "question": "A patient with resistant HTN is already on ACEi + CCB + thiazide. Best next add-on?",
+    "options": ["Doxazosin", "Spironolactone", "Clonidine", "Hydralazine", "Propranolol"],
+    "answer": "B",
+    "rationale": "Spironolactone is the most effective typical 4th-line agent in resistant hypertension."
+  },
+  {
+    "id": 111,
+    "question": "Which antihypertensive causes constipation most prominently?",
+    "options": ["Amlodipine", "Verapamil", "Losartan", "Hydrochlorothiazide", "Hydralazine"],
+    "answer": "B",
+    "rationale": "Verapamil is classically associated with constipation."
+  },
+  {
+    "id": 112,
+    "question": "Which drug acts by blocking AT1 receptors?",
+    "options": ["Aliskiren", "Losartan", "Captopril", "Spironolactone", "Clonidine"],
+    "answer": "B",
+    "rationale": "Losartan is an ARB that blocks angiotensin II at the AT1 receptor."
+  },
+  {
+    "id": 113,
+    "question": "A patient has hyperkalemia and is on multiple meds. Which one most likely contributed?",
+    "options": ["Hydrochlorothiazide", "Furosemide", "Eplerenone", "Amlodipine", "Hydralazine"],
+    "answer": "C",
+    "rationale": "Mineralocorticoid receptor antagonists (eplerenone/spironolactone) can cause hyperkalemia."
+  },
+  {
+    "id": 114,
+    "question": "A patient with hypertensive emergency is treated with nitroprusside. Which mechanism mediates vasodilation?",
+    "options": ["↓ cAMP in smooth muscle", "↑ cGMP in smooth muscle", "Block AT1 receptors", "Block calcium channels in SA node", "Inhibit renin"],
+    "answer": "B",
+    "rationale": "Nitroprusside releases NO, which increases cGMP in vascular smooth muscle causing relaxation."
+  },
+  {
+    "id": 115,
+    "question": "A patient experiences first-dose syncope after starting doxazosin. Best explanation?",
+    "options": ["Volume depletion", "Venous and arteriolar dilation", "Increased aldosterone", "Hyperkalemia", "Bradykinin accumulation"],
+    "answer": "B",
+    "rationale": "α1-blockade causes marked orthostatic hypotension due to venous and arteriolar dilation."
+  },
+  {
+    "id": 116,
+    "question": "A patient with acute coronary syndrome and hypertension benefits from which IV agent for BP + ischemia?",
+    "options": ["Nitroprusside", "Nitroglycerin", "Methyldopa", "Minoxidil", "Hydrochlorothiazide"],
+    "answer": "B",
+    "rationale": "Nitroglycerin reduces preload and can improve coronary perfusion/vasospasm, relieving ischemia."
+  },
+  {
+    "id": 117,
+    "question": "Which antihypertensive is most likely to cause worsening of heart failure due to negative inotropy?",
+    "options": ["Amlodipine", "Verapamil", "Losartan", "Hydrochlorothiazide", "Spironolactone"],
+    "answer": "B",
+    "rationale": "Verapamil decreases contractility and can exacerbate HFrEF."
+  },
+  {
+    "id": 118,
+    "question": "A patient on ACE inhibitor develops hyperkalemia. The cause is:",
+    "options": ["Increased aldosterone", "Decreased aldosterone", "Increased ENaC activity", "Increased NKCC2 activity", "Increased bradykinin"],
+    "answer": "B",
+    "rationale": "ACE inhibition lowers angiotensin II, reducing aldosterone and decreasing potassium excretion."
+  },
+  {
+    "id": 119,
+    "question": "A patient has severe HTN and is given labetalol. Which receptor profile best describes it?",
+    "options": ["β1 selective only", "α1 selective only", "α1 + β blockade", "Renin inhibition", "Ca channel blockade"],
+    "answer": "C",
+    "rationale": "Labetalol blocks both β receptors and α1 receptors, lowering BP with less reflex tachycardia."
+  },
+  {
+    "id": 120,
+    "question": "A patient with chronic hypertension is started on chlorthalidone. Compared to HCTZ, chlorthalidone generally has:",
+    "options": ["Shorter duration", "Longer duration", "No electrolyte effects", "More bradycardia", "Less uric acid elevation"],
+    "answer": "B",
+    "rationale": "Chlorthalidone has a longer half-life and is generally more potent than HCTZ."
+  },
+  {
+    "id": 121,
+    "question": "A patient has HTN and recurrent calcium kidney stones. Which drug helps reduce urinary calcium?",
+    "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Amlodipine", "Propranolol"],
+    "answer": "B",
+    "rationale": "Thiazides increase calcium reabsorption in the DCT, lowering urinary calcium."
+  },
+  {
+    "id": 122,
+    "question": "Which drug is most likely to cause photosensitivity and mild hyperlipidemia?",
+    "options": ["Thiazides", "ARBs", "Beta-blockers", "Non-DHP CCBs", "MR antagonists"],
+    "answer": "A",
+    "rationale": "Thiazide diuretics are associated with photosensitivity and can increase lipids modestly."
+  },
+  {
+    "id": 123,
+    "question": "A patient on nifedipine (immediate-release) develops palpitations. Why?",
+    "options": ["SA node suppression", "Reflex tachycardia from vasodilation", "Hyperkalemia", "AV block", "Bradykinin accumulation"],
+    "answer": "B",
+    "rationale": "Rapid arteriolar vasodilation triggers baroreflex-mediated tachycardia."
+  },
+  {
+    "id": 124,
+    "question": "Which medication combination most increases risk of hyperkalemia and AKI and is generally avoided?",
+    "options": ["ACEi + thiazide", "ACEi + ARB", "CCB + thiazide", "β-blocker + CCB (DHP)", "α1 blocker + thiazide"],
+    "answer": "B",
+    "rationale": "Dual blockade of the renin-angiotensin system increases hyperkalemia/AKI risk without clear added benefit."
+  },
+  {
+    "id": 125,
+    "question": "A patient with hypertension and CKD is started on ACE inhibitor. Which lab should be monitored closely early on?",
+    "options": ["Calcium", "Magnesium", "Potassium and creatinine", "Troponin", "Bilirubin"],
+    "answer": "C",
+    "rationale": "ACE inhibitors can raise creatinine and potassium; monitor both after initiation and dose changes."
+  },
+  {
+    "id": 126,
+    "question": "Which drug is most useful for acute BP control during surgery due to very short half-life?",
+    "options": ["Metoprolol", "Esmolol", "Carvedilol", "Propranolol", "Atenolol"],
+    "answer": "B",
+    "rationale": "Esmolol is an ultra–short acting β1 blocker useful for rapid titration perioperatively."
+  },
+  {
+    "id": 127,
+    "question": "A patient with hypertensive urgency is given oral nifedipine for rapid reduction and becomes hypotensive with stroke symptoms. Best explanation:",
+    "options": ["Safe standard therapy", "Dangerous rapid BP drop reduces cerebral perfusion", "It increases aldosterone", "It causes hyperkalemia", "It blocks bradykinin"],
+    "answer": "B",
+    "rationale": "Immediate-release nifedipine can cause precipitous BP drops leading to cerebral hypoperfusion."
+  },
+  {
+    "id": 128,
+    "question": "Which drug class decreases BP by reducing plasma volume initially then lowering peripheral resistance chronically?",
+    "options": ["Thiazides", "Non-DHP CCBs", "Alpha blockers", "Central α2 agonists", "Direct renin inhibitors"],
+    "answer": "A",
+    "rationale": "Thiazides initially reduce plasma volume; long-term they reduce peripheral vascular resistance."
+  },
+  {
+    "id": 129,
+    "question": "A patient with HTN develops erectile dysfunction and fatigue after starting therapy. Which is most likely?",
+    "options": ["Amlodipine", "Metoprolol", "Losartan", "Hydrochlorothiazide", "Both B and D"],
+    "answer": "E",
+    "rationale": "β-blockers and thiazides are classic causes of fatigue and erectile dysfunction."
+  },
+  {
+    "id": 130,
+    "question": "A patient with hypertensive emergency is treated with clevidipine. Which class is it?",
+    "options": ["β-blocker", "ACE inhibitor", "Dihydropyridine CCB (IV)", "ARB", "Diuretic"],
+    "answer": "C",
+    "rationale": "Clevidipine is an IV dihydropyridine calcium channel blocker used for rapid BP control."
+  }
+]
+
