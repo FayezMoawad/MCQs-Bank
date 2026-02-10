@@ -167,7 +167,68 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 0.5rem;
+    width: 100%;
 }
+
+.bank-selection-container {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.selector-label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    text-align: left;
+}
+
+.bank-selector {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 0.95rem;
+    color: var(--text-main);
+    background-color: white;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+.bank-selector:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+.divider-text {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.divider-text::before,
+.divider-text::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.divider-text::before {
+    margin-right: 10px;
+}
+
+.divider-text::after {
+    margin-left: 10px;
+}
+
+
 
 .file-hint {
     font-size: 0.8rem;

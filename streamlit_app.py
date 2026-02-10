@@ -26,26 +26,18 @@ try:
     # Get all JSON files in current directory
     json_files = [f for f in os.listdir(".") if f.endswith(".json")]
     
-    # Options for the dropdown
-    options = ["Upload Your Own File"] + json_files
-    
-    # Let user select a file
-    # We use index=0 to default to "Upload Your Own File"
-    selected_option = st.selectbox("Choose Question Source:", options, index=0)
-    
-    if selected_option != "Upload Your Own File":
-        # Load the selected question bank
+    # Read all question banks into a dictionary
+    banks_data = {}
+    for jf in json_files:
         try:
-            initial_data = load_json(selected_option)
-            initial_data_json = json.dumps(initial_data)
-            # Inject data into JS
-            script_js = f"window.initial_data = {initial_data_json};\n" + script_js
+            banks_data[jf] = load_json(jf)
         except Exception as e:
-            st.error(f"Error loading {selected_option}: {e}")
-            initial_data_json = "null"
-    else:
-        # User wants to upload manually via the App's UI
-        initial_data_json = "null"
+            print(f"Error loading {jf}: {e}")
+            
+    banks_json = json.dumps(banks_data)
+    
+    # Inject data into JS
+    script_js = f"window.availableBanks = {banks_json};\n" + script_js
 
     # Combine into a single HTML string
     # We inject CSS into <head> and JS at the end of <body>

@@ -84,10 +84,30 @@ function startQuizWithData(json) {
     startLevel();
 }
 
-// Check for pre-loaded data (e.g. from Streamlit)
+// Logic to populate dropdown if banks are available
 window.addEventListener('DOMContentLoaded', () => {
-    if (window.initial_data && Array.isArray(window.initial_data)) {
-        startQuizWithData(window.initial_data);
+    const selectorContainer = document.getElementById('bank-selection-container');
+    const selector = document.getElementById('bank-selector');
+
+    if (window.availableBanks && Object.keys(window.availableBanks).length > 0) {
+        selectorContainer.classList.remove('hidden');
+
+        // Clear existing options except the first one
+        selector.innerHTML = '<option value="">-- Choose a Question Bank --</option>';
+
+        Object.keys(window.availableBanks).forEach(filename => {
+            const opt = document.createElement('option');
+            opt.value = filename;
+            opt.textContent = filename.replace('.json', '').replace(/_/g, ' '); // Beautify name
+            selector.appendChild(opt);
+        });
+
+        selector.addEventListener('change', (e) => {
+            const selectedBank = e.target.value;
+            if (selectedBank && window.availableBanks[selectedBank]) {
+                startQuizWithData(window.availableBanks[selectedBank]);
+            }
+        });
     }
 });
 
