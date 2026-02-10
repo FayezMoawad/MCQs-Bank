@@ -59,16 +59,7 @@ function handleFileUpload(event) {
         try {
             const json = JSON.parse(e.target.result);
             if (Array.isArray(json) && json.length > 0) {
-                // Initialize Game
-                allQuestions = shuffleArray(json); // Shuffle ALL questions initially
-                score = 0;
-                currentLevel = 1;
-                history = [];
-
-                screenUpload.classList.remove('active');
-                screenUpload.classList.add('hidden');
-
-                startLevel();
+                startQuizWithData(json);
             } else {
                 alert("Invalid JSON format. Please upload a valid Question Bank file.");
             }
@@ -79,6 +70,26 @@ function handleFileUpload(event) {
     };
     reader.readAsText(file);
 }
+
+function startQuizWithData(json) {
+    // Initialize Game
+    allQuestions = shuffleArray(json); // Shuffle ALL questions initially
+    score = 0;
+    currentLevel = 1;
+    history = [];
+
+    screenUpload.classList.remove('active');
+    screenUpload.classList.add('hidden');
+
+    startLevel();
+}
+
+// Check for pre-loaded data (e.g. from Streamlit)
+window.addEventListener('DOMContentLoaded', () => {
+    if (window.initial_data && Array.isArray(window.initial_data)) {
+        startQuizWithData(window.initial_data);
+    }
+});
 
 function startLevel() {
     // Determine questions for this level

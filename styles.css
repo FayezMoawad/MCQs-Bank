@@ -29,7 +29,7 @@ body {
     color: var(--text-main);
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    /* min-height: 100vh; Removed to keep footer close */
     overflow-x: hidden;
     font-size: 14px;
     /* Base font size reduced */
@@ -85,10 +85,12 @@ body {
 }
 
 /* Sticky Score */
+/* Sticky Score - Changed to Static for flow control */
 #score-badge {
-    position: fixed;
-    top: 10px;
-    right: 10px;
+    position: relative;
+    /* Changed from fixed */
+    margin: 10px 10px 25px auto;
+    /* Top, Right, Bottom(25px), Left(auto) */
     background: var(--card-bg);
     padding: 4px 10px;
     border-radius: 16px;
@@ -98,6 +100,11 @@ body {
     flex-direction: column;
     align-items: center;
     border: 1px solid #e2e8f0;
+    width: fit-content;
+    align-self: flex-end;
+    /* Align to right in flex column body */
+    right: auto;
+    top: auto;
 }
 
 .score-label {
@@ -122,7 +129,8 @@ body {
     padding: 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
+    /* Changed from center */
 }
 
 .screen {
@@ -357,7 +365,7 @@ footer {
     font-size: 0.75rem;
     color: #64748b;
     background: transparent;
-    margin-top: auto;
+    margin-top: 15px;
     border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
