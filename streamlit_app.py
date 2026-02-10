@@ -26,23 +26,25 @@ try:
     # Get all JSON files in current directory
     json_files = [f for f in os.listdir(".") if f.endswith(".json")]
     
+    # Options for the dropdown
+    options = ["Upload Your Own File"] + json_files
+    
     # Let user select a file
-    if json_files:
-        selected_file = st.sidebar.selectbox("Select Question Bank", json_files)
-        
+    # We use index=0 to default to "Upload Your Own File"
+    selected_option = st.selectbox("Choose Question Source:", options, index=0)
+    
+    if selected_option != "Upload Your Own File":
         # Load the selected question bank
         try:
-            initial_data = load_json(selected_file)
+            initial_data = load_json(selected_option)
             initial_data_json = json.dumps(initial_data)
             # Inject data into JS
-            # We add a unique ID to the window object to force reload if needed, 
-            # though Streamlit re-runs the whole script on interaction.
             script_js = f"window.initial_data = {initial_data_json};\n" + script_js
         except Exception as e:
-            st.error(f"Error loading {selected_file}: {e}")
+            st.error(f"Error loading {selected_option}: {e}")
             initial_data_json = "null"
     else:
-        st.warning("No JSON question banks found in directory.")
+        # User wants to upload manually via the App's UI
         initial_data_json = "null"
 
     # Combine into a single HTML string
