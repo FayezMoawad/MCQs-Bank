@@ -1,0 +1,924 @@
+[
+  {
+    "id": 1,
+    "question": "A 65-year-old man with osteoarthritis and a history of gastric ulcer requires chronic analgesia. Which option is MOST appropriate as first-line therapy?",
+    "options": ["Oral naproxen", "Topical diclofenac", "Ketorolac IM", "High-dose ibuprofen"],
+    "answer": "B",
+    "rationale": "Topical NSAIDs provide effective OA pain relief with lower systemic GI risk compared with oral NSAIDs."
+  },
+  {
+    "id": 2,
+    "question": "A patient with diabetic neuropathy reports burning foot pain despite acetaminophen use. Which agent is BEST supported as first-line therapy?",
+    "options": ["Hydrocodone", "Ibuprofen", "Duloxetine", "Tramadol only"],
+    "answer": "C",
+    "rationale": "SNRIs such as duloxetine are guideline-supported first-line therapy for diabetic neuropathic pain."
+  },
+  {
+    "id": 3,
+    "question": "Which adverse effect is MOST characteristic of chronic NSAID therapy?",
+    "options": ["Hepatotoxicity", "Gastric bleeding", "Respiratory depression", "Serotonin syndrome"],
+    "answer": "B",
+    "rationale": "NSAIDs inhibit COX-1 in the gastric mucosa, increasing risk of ulceration and bleeding."
+  },
+  {
+    "id": 4,
+    "question": "A post-operative patient receives scheduled acetaminophen plus ibuprofen. The rationale for this combination is:",
+    "options": ["Synergistic analgesia", "Prevention of opioid withdrawal", "Cure of inflammation", "Complete opioid replacement"],
+    "answer": "A",
+    "rationale": "Multimodal analgesia using different mechanisms provides synergistic pain control and reduces opioid needs."
+  },
+  {
+    "id": 5,
+    "question": "Which statement about ketorolac is CORRECT?",
+    "options": ["Safe for long-term use", "Maximum total therapy is 5 days", "Safer than all NSAIDs", "No renal risk"],
+    "answer": "B",
+    "rationale": "Ketorolac is limited to a maximum of 5 days total due to high GI and renal risk."
+  },
+  {
+    "id": 6,
+    "question": "A patient with migraine and uncontrolled hypertension should AVOID which acute therapy?",
+    "options": ["Ubrogepant", "Rimegepant", "Sumatriptan", "Acetaminophen"],
+    "answer": "C",
+    "rationale": "Triptans are contraindicated in uncontrolled hypertension due to vasoconstrictive effects."
+  },
+  {
+    "id": 7,
+    "question": "Which opioid adverse effect requires routine prophylaxis?",
+    "options": ["Constipation", "Euphoria", "Hypotension", "Hallucinations"],
+    "answer": "A",
+    "rationale": "Opioid-induced constipation is expected and should be prevented with a bowel regimen."
+  },
+  {
+    "id": 8,
+    "question": "Which agent is BEST for focal post-herpetic neuralgia?",
+    "options": ["Lidocaine 5% patch", "Oral prednisone", "High-dose morphine", "Acetaminophen alone"],
+    "answer": "A",
+    "rationale": "Topical lidocaine provides targeted relief with minimal systemic effects."
+  },
+  {
+    "id": 9,
+    "question": "A patient on lisinopril and furosemide is prescribed ibuprofen. The pharmacist should warn about:",
+    "options": ["Triple whammy renal risk", "Serotonin syndrome", "Hepatic failure", "Hyperkalemia only"],
+    "answer": "A",
+    "rationale": "ACE inhibitor + diuretic + NSAID increases risk of acute kidney injury."
+  },
+  {
+    "id": 10,
+    "question": "Which medication is FIRST-LINE for classic trigeminal neuralgia?",
+    "options": ["Gabapentin", "Carbamazepine", "Ibuprofen", "Hydromorphone"],
+    "answer": "B",
+    "rationale": "Carbamazepine is the treatment of choice for trigeminal neuralgia."
+  },
+  {
+    "id": 11,
+    "question": "Which medication requires renal dose adjustment?",
+    "options": ["Gabapentin", "Celecoxib", "Lidocaine patch", "Sumatriptan"],
+    "answer": "A",
+    "rationale": "Gabapentin is renally eliminated and requires dose adjustment in CKD."
+  },
+  {
+    "id": 12,
+    "question": "Which is the MAXIMUM recommended adult daily dose of acetaminophen for most patients?",
+    "options": ["2,000 mg", "3,000 mg", "4,000 mg", "5,000 mg"],
+    "answer": "C",
+    "rationale": "Standard maximum is 4,000 mg/day, though many clinicians target 3,000 mg/day in chronic use."
+  },
+  {
+    "id": 13,
+    "question": "Which drug has a boxed warning for respiratory depression when combined with benzodiazepines?",
+    "options": ["Ibuprofen", "Oxycodone", "Celecoxib", "Duloxetine"],
+    "answer": "B",
+    "rationale": "Opioids have a boxed warning for life-threatening respiratory depression, especially with sedatives."
+  },
+  {
+    "id": 14,
+    "question": "Which therapy is MOST appropriate for dysmenorrhea?",
+    "options": ["Acetaminophen only", "Oral NSAID started early", "Strong opioid", "Gabapentin"],
+    "answer": "B",
+    "rationale": "NSAIDs are first-line because they block prostaglandin-mediated uterine contractions."
+  },
+  {
+    "id": 15,
+    "question": "Which adverse effect is most associated with TCAs (e.g., amitriptyline)?",
+    "options": ["Diarrhea", "Anticholinergic effects", "Hyperkalemia", "Severe hypotension only"],
+    "answer": "B",
+    "rationale": "TCAs commonly cause dry mouth, urinary retention, and sedation."
+  },
+  {
+    "id": 16,
+    "question": "A patient with severe liver disease should AVOID high doses of:",
+    "options": ["Ibuprofen", "Acetaminophen", "Lidocaine patch", "Gabapentin"],
+    "answer": "B",
+    "rationale": "Acetaminophen is hepatotoxic at high doses or in liver disease."
+  },
+  {
+    "id": 17,
+    "question": "Which migraine agent requires patients NOT to drive for 8 hours after use?",
+    "options": ["Lasmiditan", "Sumatriptan", "Naproxen", "Rimegepant"],
+    "answer": "A",
+    "rationale": "Lasmiditan causes significant sedation and impairment."
+  },
+  {
+    "id": 18,
+    "question": "Which is a RED FLAG in back pain requiring urgent referral?",
+    "options": ["Muscle strain", "Saddle anesthesia", "Mild stiffness", "Tight hamstrings"],
+    "answer": "B",
+    "rationale": "Saddle anesthesia suggests possible cauda equina syndrome."
+  },
+  {
+    "id": 19,
+    "question": "Which agent is BEST avoided in pregnancy (third trimester)?",
+    "options": ["Acetaminophen", "Ibuprofen", "Lidocaine patch", "Gabapentin"],
+    "answer": "B",
+    "rationale": "NSAIDs are avoided in late pregnancy due to ductus arteriosus closure risk."
+  },
+  {
+    "id": 20,
+    "question": "Which statement best describes multimodal analgesia?",
+    "options": [
+      "Using only opioids",
+      "Combining drugs with different mechanisms",
+      "Replacing all drugs with surgery",
+      "Using only herbal remedies"
+    ],
+    "answer": "B",
+    "rationale": "Multimodal therapy improves pain control and reduces opioid exposure."
+  },
+  {
+    "id": 21,
+    "question": "A 72-year-old woman with CKD stage 4 (CrCl ~22 mL/min) has post-herpetic neuralgia. Which agent is MOST appropriate to start?",
+    "options": ["Standard-dose gabapentin", "Renally adjusted gabapentin", "Carbamazepine without monitoring", "High-dose duloxetine"],
+    "answer": "B",
+    "rationale": "Gabapentin requires renal dose adjustment; full doses in CKD markedly increase toxicity risk."
+  },
+  {
+    "id": 22,
+    "question": "A patient on chronic warfarin is started on an NSAID for arthritis. The pharmacist should be MOST concerned about:",
+    "options": ["Hyperkalemia", "Serotonin syndrome", "Increased bleeding risk", "Hypertensive crisis"],
+    "answer": "C",
+    "rationale": "NSAIDs increase GI bleeding risk and can potentiate warfarin’s anticoagulant effect."
+  },
+  {
+    "id": 23,
+    "question": "Which patient is LEAST appropriate for celecoxib?",
+    "options": [
+      "55-year-old with prior peptic ulcer",
+      "60-year-old with recent myocardial infarction",
+      "70-year-old with knee osteoarthritis",
+      "50-year-old with dysmenorrhea"
+    ],
+    "answer": "B",
+    "rationale": "COX-2 inhibitors still carry significant cardiovascular risk and should be avoided soon after MI."
+  },
+  {
+    "id": 24,
+    "question": "A patient receives morphine post-operatively and becomes very drowsy with RR 8/min. The MOST appropriate immediate action is:",
+    "options": ["Increase fluids", "Give naloxone", "Switch to tramadol", "Give ondansetron"],
+    "answer": "B",
+    "rationale": "Respiratory depression from opioids requires prompt naloxone reversal."
+  },
+  {
+    "id": 25,
+    "question": "Which opioid is generally preferred in severe renal impairment?",
+    "options": ["Morphine", "Codeine", "Hydromorphone", "Meperidine"],
+    "answer": "C",
+    "rationale": "Hydromorphone has fewer active metabolites than morphine in renal failure."
+  },
+  {
+    "id": 26,
+    "question": "A patient with diabetic neuropathy is started on duloxetine 30 mg daily. What is the MOST appropriate counseling?",
+    "options": [
+      "Pain relief is immediate",
+      "Expect benefit in 2–4 weeks",
+      "Stop if any nausea occurs",
+      "Take only as needed"
+    ],
+    "answer": "B",
+    "rationale": "SNRIs require several weeks for full analgesic effect."
+  },
+  {
+    "id": 27,
+    "question": "Which drug interaction is MOST concerning with tramadol?",
+    "options": [
+      "With acetaminophen",
+      "With sertraline",
+      "With omeprazole",
+      "With topical diclofenac"
+    ],
+    "answer": "B",
+    "rationale": "Tramadol plus SSRIs increases risk of serotonin syndrome and seizures."
+  },
+  {
+    "id": 28,
+    "question": "Which medication is MOST likely to prolong QT interval?",
+    "options": ["Ibuprofen", "Amitriptyline", "Gabapentin", "Lidocaine patch"],
+    "answer": "B",
+    "rationale": "TCAs can prolong QT and increase arrhythmia risk, especially in overdose."
+  },
+  {
+    "id": 29,
+    "question": "A migraine patient with ischemic heart disease asks for acute therapy. BEST option is:",
+    "options": ["Sumatriptan", "Rimegepant", "Ergotamine", "High-dose naproxen alone"],
+    "answer": "B",
+    "rationale": "Gepants (rimegepant) do not cause vasoconstriction and are safer in vascular disease."
+  },
+  {
+    "id": 30,
+    "question": "Which statement about lasmiditan is CORRECT?",
+    "options": [
+      "Causes vasoconstriction like triptans",
+      "Safe to drive immediately after dosing",
+      "Requires 8-hour driving restriction",
+      "Can be repeated every 2 hours"
+    ],
+    "answer": "C",
+    "rationale": "Lasmiditan causes significant CNS impairment and mandates an 8-hour no-driving period."
+  },
+  {
+    "id": 31,
+    "question": "A patient uses ibuprofen daily for chronic back pain and develops melena. The MOST likely mechanism is:",
+    "options": [
+      "Liver toxicity",
+      "COX-1 inhibition in gastric mucosa",
+      "Serotonin depletion",
+      "Sodium channel blockade"
+    ],
+    "answer": "B",
+    "rationale": "NSAID inhibition of COX-1 reduces gastric prostaglandins, predisposing to bleeding."
+  },
+  {
+    "id": 32,
+    "question": "Which scenario BEST supports use of topical NSAID instead of oral NSAID?",
+    "options": [
+      "Widespread inflammatory arthritis",
+      "Localized knee osteoarthritis in elderly",
+      "Severe acute gout flare",
+      "Postoperative abdominal pain"
+    ],
+    "answer": "B",
+    "rationale": "Topical diclofenac is preferred for localized OA with lower systemic risk."
+  },
+  {
+    "id": 33,
+    "question": "A patient takes lisinopril, furosemide, and starts ibuprofen. Which lab should be checked within 1–2 weeks?",
+    "options": ["ALT", "INR", "Serum creatinine", "Hemoglobin A1c"],
+    "answer": "C",
+    "rationale": "This 'triple whammy' combination increases risk of acute kidney injury."
+  },
+  {
+    "id": 34,
+    "question": "Which medication is FIRST-LINE for classic trigeminal neuralgia?",
+    "options": ["Pregabalin", "Carbamazepine", "Duloxetine", "Oxycodone"],
+    "answer": "B",
+    "rationale": "Carbamazepine is the guideline-recommended first-line agent."
+  },
+  {
+    "id": 35,
+    "question": "Which is the MOST appropriate use of ketorolac?",
+    "options": [
+      "Chronic arthritis",
+      "Acute postoperative pain for 2–3 days",
+      "Migraine prevention",
+      "Neuropathic pain"
+    ],
+    "answer": "B",
+    "rationale": "Ketorolac is only for short-term (≤5 days total) treatment of acute pain."
+  },
+  {
+    "id": 36,
+    "question": "Which opioid adverse effect is NOT dose-dependent?",
+    "options": ["Constipation", "Sedation", "Respiratory depression", "Pruritus"],
+    "answer": "D",
+    "rationale": "Pruritus can occur unpredictably and is not strictly dose-dependent."
+  },
+  {
+    "id": 37,
+    "question": "A patient with severe liver disease needs mild analgesia for headache. BEST option?",
+    "options": ["High-dose acetaminophen", "Ibuprofen with PPI", "Low-dose acetaminophen", "Diclofenac gel on large body area"],
+    "answer": "C",
+    "rationale": "If used, acetaminophen should be at reduced doses in significant liver disease."
+  },
+  {
+    "id": 38,
+    "question": "Which is a MAJOR contraindication to triptans?",
+    "options": ["Migraine with aura", "Coronary artery disease", "Nausea", "Mild hypertension"],
+    "answer": "B",
+    "rationale": "Triptans are contraindicated in ischemic heart disease due to vasoconstriction."
+  },
+  {
+    "id": 39,
+    "question": "Which counseling point is MOST important for gabapentin?",
+    "options": [
+      "Take only when pain is severe",
+      "Titrate slowly to reduce dizziness",
+      "Double dose if missed",
+      "Stop abruptly if ineffective"
+    ],
+    "answer": "B",
+    "rationale": "Slow titration minimizes CNS adverse effects."
+  },
+  {
+    "id": 40,
+    "question": "A patient on chronic opioids develops severe constipation despite laxatives. BEST next step?",
+    "options": [
+      "Increase opioid dose",
+      "Add methylnaltrexone",
+      "Stop all pain meds",
+      "Switch to NSAID only"
+    ],
+    "answer": "B",
+    "rationale": "Peripheral opioid antagonists (e.g., methylnaltrexone) are indicated for refractory OIC."
+  },
+  {
+    "id": 41,
+    "question": "A 78-year-old man (weight 70 kg) with severe osteoarthritis takes acetaminophen 1,000 mg every 6 hours plus a cold product containing acetaminophen 650 mg twice daily. What is his total daily acetaminophen dose and the BEST recommendation?",
+    "options": [
+      "3,300 mg/day; continue as-is",
+      "4,000 mg/day; continue as-is",
+      "5,300 mg/day; reduce/avoid duplicate acetaminophen and keep total ≤4,000 mg/day (often ≤3,000 mg/day in elderly)",
+      "6,000 mg/day; switch to ibuprofen 800 mg TID long-term"
+    ],
+    "answer": "C",
+    "rationale": "1,000 mg q6h = 4,000 mg/day plus 650 mg BID = 1,300 mg/day; total = 5,300 mg/day. This exceeds standard max and is especially risky in older adults; eliminate duplicate products and cap total daily dose."
+  },
+  {
+    "id": 42,
+    "question": "A patient with acute dental pain is prescribed ibuprofen 600 mg q6h PRN and acetaminophen 1,000 mg q6h PRN. Which regimen provides strong analgesia while staying within typical maximum daily doses?",
+    "options": [
+      "Alternate ibuprofen and acetaminophen every 3 hours (each drug q6h), max 2,400 mg/day ibuprofen and 4,000 mg/day acetaminophen",
+      "Take both together every 6 hours, max 3,600 mg/day ibuprofen and 6,000 mg/day acetaminophen",
+      "Take ibuprofen 800 mg q4h and acetaminophen 1,000 mg q4h",
+      "Avoid acetaminophen and use ketorolac for 10 days"
+    ],
+    "answer": "A",
+    "rationale": "Alternating allows frequent analgesia while keeping each medication within typical daily limits (e.g., ibuprofen 2,400 mg/day; acetaminophen 4,000 mg/day). Other options exceed safe dosing or violate ketorolac duration limits."
+  },
+  {
+    "id": 43,
+    "question": "A 60-year-old woman with atrial fibrillation on apixaban needs therapy for acute low back pain. She has prior GI bleed. Best pharmacologic strategy?",
+    "options": [
+      "Oral naproxen 500 mg BID",
+      "Ketorolac IM then oral for 5 days",
+      "Acetaminophen plus topical NSAID if localized, avoid systemic NSAIDs unless specialist-directed",
+      "Aspirin 650 mg QID"
+    ],
+    "answer": "C",
+    "rationale": "Systemic NSAIDs markedly increase bleeding risk with anticoagulants and prior GI bleed. Prefer acetaminophen and topical options; reserve systemic therapy only with strong justification and protection/monitoring."
+  },
+  {
+    "id": 44,
+    "question": "A 52-year-old with CKD stage 3 (CrCl 45 mL/min) develops AKI after starting ibuprofen while on lisinopril and hydrochlorothiazide. Which mechanism explains this injury?",
+    "options": [
+      "NSAID dilates efferent arteriole causing hyperfiltration",
+      "NSAID constricts afferent arteriole; ACE inhibitor dilates efferent arteriole; diuretic reduces renal perfusion",
+      "ACE inhibitor constricts afferent arteriole; NSAID dilates efferent arteriole",
+      "Diuretic increases prostaglandins leading to glomerular shutdown"
+    ],
+    "answer": "B",
+    "rationale": "NSAIDs reduce prostaglandins causing afferent vasoconstriction; ACEi/ARB dilate efferent arteriole; diuretics reduce effective circulating volume—together precipitating AKI."
+  },
+  {
+    "id": 45,
+    "question": "A patient with severe neuropathic pain is started on gabapentin 300 mg at bedtime and titrated to 300 mg TID over 3 days. He reports marked somnolence and dizziness. Best next step?",
+    "options": [
+      "Continue; adverse effects always resolve within 24 hours",
+      "Stop abruptly and switch to duloxetine immediately at max dose",
+      "Reduce to 100–300 mg nightly and titrate more slowly; assess renal function and concurrent CNS depressants",
+      "Add oxycodone to counteract dizziness"
+    ],
+    "answer": "C",
+    "rationale": "Gabapentin adverse effects are dose/titration related; slower titration and renal assessment reduce toxicity. Abrupt cessation and aggressive switching are not optimal."
+  },
+  {
+    "id": 46,
+    "question": "A 68-year-old with chronic pain takes oxycodone ER and is newly prescribed clonazepam for anxiety. Which risk mitigation step is MOST appropriate?",
+    "options": [
+      "No action needed; ER opioids reduce overdose risk",
+      "Co-prescribe naloxone and counsel on sedation/respiratory depression; consider alternatives to benzodiazepines",
+      "Add diphenhydramine at bedtime for sleep",
+      "Switch oxycodone ER to meperidine"
+    ],
+    "answer": "B",
+    "rationale": "Opioids plus benzodiazepines increase risk of life-threatening respiratory depression; naloxone, counseling, and avoiding the combination when possible are key mitigation steps."
+  },
+  {
+    "id": 47,
+    "question": "A 45-year-old with migraine uses sumatriptan on 12 days per month and ibuprofen on 10 days per month. She reports daily headaches. Best interpretation?",
+    "options": [
+      "Triptan tachyphylaxis only; increase sumatriptan dose",
+      "Medication-overuse headache; reduce acute medication days and initiate preventive strategy",
+      "NSAID allergy; switch to aspirin",
+      "Cluster headache; add oxygen therapy"
+    ],
+    "answer": "B",
+    "rationale": "Frequent use of acute migraine medications (triptans/NSAIDs) is associated with medication-overuse headache; management includes limiting acute use and initiating prevention."
+  },
+  {
+    "id": 48,
+    "question": "A patient with coronary artery disease needs acute migraine therapy. Which option is MOST appropriate and why?",
+    "options": [
+      "Sumatriptan because it is selective",
+      "Ergotamine because it is long-acting",
+      "Ubrogepant because it lacks vasoconstrictive activity",
+      "High-dose prednisone because it aborts migraines rapidly"
+    ],
+    "answer": "C",
+    "rationale": "Gepants (e.g., ubrogepant) do not cause vasoconstriction, making them preferable when triptans/ergots are contraindicated due to vascular disease."
+  },
+  {
+    "id": 49,
+    "question": "A 56-year-old with knee OA and uncontrolled hypertension requests an oral NSAID. Best recommendation?",
+    "options": [
+      "Diclofenac 75 mg BID long-term",
+      "Celecoxib 200 mg BID without monitoring",
+      "Topical diclofenac plus nonpharm; if oral NSAID is necessary, use the lowest effective dose and monitor BP/renal function",
+      "Ketorolac 10 mg QID for 2 weeks"
+    ],
+    "answer": "C",
+    "rationale": "NSAIDs can worsen BP and renal function; topical NSAID is preferred for localized OA. If oral therapy is needed, use lowest effective dose with monitoring."
+  },
+  {
+    "id": 50,
+    "question": "A patient with dysmenorrhea asks how NSAIDs help. The best explanation is:",
+    "options": [
+      "They block histamine receptors to reduce uterine cramps",
+      "They reduce prostaglandin synthesis, decreasing uterine contractions and pain",
+      "They increase serotonin levels in the CNS to improve mood",
+      "They stimulate opioid receptors in the uterus"
+    ],
+    "answer": "B",
+    "rationale": "Primary dysmenorrhea is prostaglandin-mediated; NSAIDs inhibit COX enzymes, lowering prostaglandins and uterine hypercontractility."
+  },
+  {
+    "id": 51,
+    "question": "A 64-year-old with prior peptic ulcer needs oral NSAID therapy for inflammatory pain. Which gastroprotection strategy is MOST appropriate?",
+    "options": [
+      "Add a proton pump inhibitor (PPI) while using the lowest effective NSAID dose",
+      "Add ranitidine as needed",
+      "Use enteric-coated NSAID only",
+      "Add sucralfate alone and increase NSAID dose"
+    ],
+    "answer": "A",
+    "rationale": "High GI-risk patients benefit from PPI co-therapy (or alternative strategies per local guideline) alongside lowest effective NSAID dosing."
+  },
+  {
+    "id": 52,
+    "question": "A 70-year-old on chronic opioids has persistent constipation despite stimulant laxative plus osmotic laxative. What is the BEST next pharmacologic option?",
+    "options": ["Add loperamide", "Add methylnaltrexone", "Add ondansetron", "Add gabapentin"],
+    "answer": "B",
+    "rationale": "Refractory opioid-induced constipation can be treated with peripherally acting mu-opioid receptor antagonists (PAMORAs) such as methylnaltrexone."
+  },
+  {
+    "id": 53,
+    "question": "A patient on sertraline is started on tramadol for acute pain. Which constellation of symptoms most suggests serotonin syndrome?",
+    "options": [
+      "Bradycardia, hypothermia, pinpoint pupils",
+      "Hyperreflexia, clonus, agitation, diaphoresis",
+      "Dry mouth, urinary retention, blurred vision",
+      "Tinnitus and hearing loss"
+    ],
+    "answer": "B",
+    "rationale": "Serotonin syndrome presents with neuromuscular hyperactivity (clonus/hyperreflexia), autonomic instability (diaphoresis), and mental status changes."
+  },
+  {
+    "id": 54,
+    "question": "A 58-year-old with cancer pain is on morphine and reports new burning, shooting pain in a dermatomal pattern. Best add-on therapy?",
+    "options": ["Increase morphine only", "Add gabapentin or duloxetine as adjuvant", "Switch to ibuprofen monotherapy", "Add sumatriptan"],
+    "answer": "B",
+    "rationale": "Neuropathic cancer pain often requires adjuvant analgesics (gabapentinoids or antidepressants) in addition to opioids."
+  },
+  {
+    "id": 55,
+    "question": "Which scenario most strongly indicates urgent evaluation rather than outpatient analgesic adjustment?",
+    "options": [
+      "Acute low back pain after lifting with no neurologic signs",
+      "Migraine with photophobia similar to prior episodes",
+      "Low back pain with new urinary retention and saddle anesthesia",
+      "Knee OA pain worse with activity"
+    ],
+    "answer": "C",
+    "rationale": "Urinary retention and saddle anesthesia are red flags for possible cauda equina syndrome requiring urgent evaluation."
+  },
+  {
+    "id": 56,
+    "question": "A 40-year-old is prescribed prednisone for radicular pain flare. Which counseling point is MOST appropriate for a short course?",
+    "options": [
+      "Expect permanent pain cure after 1 dose",
+      "Take in the morning with food; monitor for mood changes and elevated glucose",
+      "Avoid all vaccines for 1 year",
+      "Stop immediately after 1 day if improved to prevent dependence"
+    ],
+    "answer": "B",
+    "rationale": "Short corticosteroid courses can still cause GI upset, mood changes, insomnia, and hyperglycemia; morning dosing and food reduce adverse effects."
+  },
+  {
+    "id": 57,
+    "question": "A patient with post-op pain is prescribed oxycodone IR 5 mg q4h PRN, #30 tablets. The surgeon wants a 3-day supply with a maximum of 6 doses/day. How many tablets should be dispensed?",
+    "options": ["12", "18", "24", "30"],
+    "answer": "C",
+    "rationale": "Max 6 tablets/day x 3 days = 18 tablets. However q4h PRN implies up to 6/day; the correct 3-day maximum is 18. Among options, 18 is correct. If the intent is strict 3-day supply, dispense 18."
+  },
+  {
+    "id": 58,
+    "question": "A patient has severe localized neuropathic pain and is offered lidocaine 5% patches. Which counseling is CORRECT for safe use?",
+    "options": [
+      "Apply to broken skin for better absorption",
+      "Use as many patches as needed continuously",
+      "Apply to intact skin; follow product limits on number of patches and hours on/off",
+      "Heat the patch to increase effect"
+    ],
+    "answer": "C",
+    "rationale": "Lidocaine patches should be used on intact skin with strict adherence to labeled limits to prevent systemic absorption and toxicity."
+  },
+  {
+    "id": 59,
+    "question": "A 62-year-old with chronic low back pain asks about long-term muscle relaxant use. Best evidence-based guidance is:",
+    "options": [
+      "Muscle relaxants are first-line long-term maintenance therapy",
+      "Use short-term only for acute spasm due to sedation/fall risk; reassess frequently",
+      "Combine with benzodiazepines to enhance effect",
+      "They are safer than NSAIDs in all older adults"
+    ],
+    "answer": "B",
+    "rationale": "Most skeletal muscle relaxants are recommended only short-term for acute spasm; long-term use increases sedation and fall risk, especially in older adults."
+  },
+  {
+    "id": 60,
+    "question": "A patient with chronic migraine has contraindication to triptans due to prior stroke and requests an acute option that minimizes vascular risk and does not require an 8-hour driving restriction. Best choice?",
+    "options": ["Sumatriptan", "Lasmiditan", "Rimegepant", "Ergotamine"],
+    "answer": "C",
+    "rationale": "Gepants (e.g., rimegepant) lack vasoconstriction and do not carry lasmiditan’s mandatory driving restriction, making them suitable when triptans/ergots are contraindicated."
+  },
+  {
+    "id": 61,
+    "question": "Which medication is MOST appropriate as first-line for mild fever in an adult with stable kidney disease?",
+    "options": ["Ibuprofen", "Ketorolac", "Acetaminophen", "Aspirin"],
+    "answer": "C",
+    "rationale": "Acetaminophen is preferred in patients with renal disease because it lacks the nephrotoxic effects of NSAIDs."
+  },
+  {
+    "id": 62,
+    "question": "Which statement about topical diclofenac for knee osteoarthritis is MOST accurate?",
+    "options": [
+      "It has the same systemic risk as oral NSAIDs",
+      "It provides local pain relief with lower systemic exposure",
+      "It should be avoided in all elderly patients",
+      "It requires routine serum drug monitoring"
+    ],
+    "answer": "B",
+    "rationale": "Topical NSAIDs deliver effective local analgesia with substantially lower systemic absorption and fewer systemic adverse effects."
+  },
+  {
+    "id": 63,
+    "question": "Which drug class is most closely associated with serotonin syndrome when combined with SSRIs?",
+    "options": ["Acetaminophen", "Tramadol", "Ibuprofen", "Lidocaine"],
+    "answer": "B",
+    "rationale": "Tramadol has serotonergic activity and can precipitate serotonin syndrome when combined with SSRIs."
+  },
+  {
+    "id": 64,
+    "question": "Which analgesic is BEST avoided in a patient with active peptic ulcer disease?",
+    "options": ["Acetaminophen", "Celecoxib", "Naproxen", "Lidocaine patch"],
+    "answer": "C",
+    "rationale": "Nonselective NSAIDs like naproxen significantly increase the risk of GI bleeding and ulcer complications."
+  },
+  {
+    "id": 65,
+    "question": "A patient asks why acetaminophen does not reduce swelling. The best explanation is:",
+    "options": [
+      "It does not significantly inhibit peripheral prostaglandins",
+      "It increases inflammation",
+      "It only works in muscles",
+      "It blocks histamine receptors"
+    ],
+    "answer": "A",
+    "rationale": "Acetaminophen primarily acts centrally and has minimal peripheral anti-inflammatory effect."
+  },
+  {
+    "id": 66,
+    "question": "Which opioid adverse effect is MOST predictable and should be prevented?",
+    "options": ["Constipation", "Euphoria", "Hallucinations", "Seizures"],
+    "answer": "A",
+    "rationale": "Opioid-induced constipation is expected in nearly all patients and requires prophylaxis."
+  },
+  {
+    "id": 67,
+    "question": "Which agent is most appropriate for localized neuropathic pain on intact skin?",
+    "options": ["Lidocaine patch", "Oral morphine", "High-dose ibuprofen", "Prednisone"],
+    "answer": "A",
+    "rationale": "Topical lidocaine provides targeted relief with minimal systemic effects."
+  },
+  {
+    "id": 68,
+    "question": "Which migraine therapy is contraindicated in coronary artery disease?",
+    "options": ["Rimegepant", "Sumatriptan", "Acetaminophen", "Ondansetron"],
+    "answer": "B",
+    "rationale": "Triptans cause vasoconstriction and are contraindicated in ischemic heart disease."
+  },
+  {
+    "id": 69,
+    "question": "Which is the BEST initial treatment for primary dysmenorrhea?",
+    "options": ["Opioids", "NSAIDs", "Gabapentin", "Muscle relaxants"],
+    "answer": "B",
+    "rationale": "NSAIDs reduce prostaglandin production and are first-line for menstrual cramps."
+  },
+  {
+    "id": 70,
+    "question": "Which laboratory test should be monitored when starting chronic NSAIDs in an elderly patient?",
+    "options": ["INR", "Serum creatinine", "TSH", "HbA1c"],
+    "answer": "B",
+    "rationale": "NSAIDs can impair renal function; serum creatinine should be monitored."
+  },
+  {
+    "id": 71,
+    "question": "Which drug is most likely to cause anticholinergic effects?",
+    "options": ["Amitriptyline", "Duloxetine", "Gabapentin", "Acetaminophen"],
+    "answer": "A",
+    "rationale": "TCAs like amitriptyline commonly cause dry mouth, urinary retention, and blurred vision."
+  },
+  {
+    "id": 72,
+    "question": "Which pain type responds BEST to gabapentin?",
+    "options": ["Migraine", "Neuropathic pain", "Acute sprain", "Dental pain"],
+    "answer": "B",
+    "rationale": "Gabapentin is most effective for neuropathic pain conditions."
+  },
+  {
+    "id": 73,
+    "question": "Which statement about ketorolac is CORRECT?",
+    "options": [
+      "Safe for chronic use",
+      "Limited to a maximum of 5 days total therapy",
+      "Preferred in pregnancy",
+      "No renal risk"
+    ],
+    "answer": "B",
+    "rationale": "Ketorolac is restricted to ≤5 days due to high risk of GI and renal toxicity."
+  },
+  {
+    "id": 74,
+    "question": "Which counseling point is MOST important when starting duloxetine for neuropathic pain?",
+    "options": [
+      "Pain relief will be immediate",
+      "Benefits may take 2–4 weeks",
+      "Take only when pain is severe",
+      "Stop abruptly if ineffective"
+    ],
+    "answer": "B",
+    "rationale": "SNRIs require several weeks to achieve full analgesic effect."
+  },
+  {
+    "id": 75,
+    "question": "Which patient should avoid NSAIDs in the third trimester of pregnancy?",
+    "options": ["All pregnant patients", "Only those with migraines", "All patients in third trimester", "Only those with hypertension"],
+    "answer": "C",
+    "rationale": "NSAIDs are generally avoided in late pregnancy due to risk of premature ductus arteriosus closure."
+  },
+  {
+    "id": 76,
+    "question": "Which is a key advantage of rimegepant over triptans?",
+    "options": [
+      "Causes vasoconstriction",
+      "No driving restriction and no vasoconstriction",
+      "Works only for tension headaches",
+      "Requires IV administration"
+    ],
+    "answer": "B",
+    "rationale": "Gepants do not cause vasoconstriction and do not require post-dose driving restrictions."
+  },
+  {
+    "id": 77,
+    "question": "Which medication requires slow titration to reduce side effects?",
+    "options": ["Gabapentin", "Ibuprofen", "Acetaminophen", "Ketorolac"],
+    "answer": "A",
+    "rationale": "Gabapentin must be titrated gradually to minimize dizziness and somnolence."
+  },
+  {
+    "id": 78,
+    "question": "Which is a major red flag in back pain?",
+    "options": ["Muscle soreness", "Saddle anesthesia", "Mild stiffness", "Tight hamstrings"],
+    "answer": "B",
+    "rationale": "Saddle anesthesia suggests possible cauda equina syndrome requiring urgent evaluation."
+  },
+  {
+    "id": 79,
+    "question": "Which drug is most appropriate for acute migraine in a patient with uncontrolled hypertension?",
+    "options": ["Sumatriptan", "Rimegepant", "Ergotamine", "High-dose naproxen alone"],
+    "answer": "B",
+    "rationale": "Gepants do not cause vasoconstriction and are safer when blood pressure is uncontrolled."
+  },
+  {
+    "id": 80,
+    "question": "Which statement best describes multimodal analgesia?",
+    "options": [
+      "Using only opioids",
+      "Combining drugs with different mechanisms",
+      "Avoiding all medications",
+      "Using only herbal remedies"
+    ],
+    "answer": "B",
+    "rationale": "Multimodal analgesia improves pain control and reduces opioid requirements."
+  },
+  {
+    "id": 81,
+    "question": "A 58-year-old man with hypertension and heart failure wants an OTC analgesic for knee pain. Which is the safest initial option?",
+    "options": ["Ibuprofen", "Naproxen", "Acetaminophen", "Diclofenac oral"],
+    "answer": "C",
+    "rationale": "Acetaminophen avoids the fluid retention, renal risk, and blood pressure effects of NSAIDs in heart failure."
+  },
+  {
+    "id": 82,
+    "question": "Which mechanism best explains why NSAIDs relieve dysmenorrhea?",
+    "options": [
+      "Block serotonin reuptake",
+      "Reduce uterine prostaglandin synthesis",
+      "Stimulate opioid receptors",
+      "Block calcium channels"
+    ],
+    "answer": "B",
+    "rationale": "Primary dysmenorrhea is driven by excess prostaglandins; NSAIDs reduce their production via COX inhibition."
+  },
+  {
+    "id": 83,
+    "question": "A patient develops black tarry stools after 7 days of high-dose naproxen. The most likely cause is:",
+    "options": [
+      "Hepatotoxicity",
+      "COX-1 inhibition in gastric mucosa",
+      "Serotonin toxicity",
+      "Sodium channel blockade"
+    ],
+    "answer": "B",
+    "rationale": "Nonselective NSAIDs inhibit COX-1, reducing gastric protection and increasing bleeding risk."
+  },
+  {
+    "id": 84,
+    "question": "Which drug is most appropriate for neuropathic pain in a patient who cannot tolerate sedation?",
+    "options": ["Amitriptyline", "Gabapentin", "Duloxetine", "Oxycodone"],
+    "answer": "C",
+    "rationale": "Duloxetine is less sedating than TCAs or gabapentinoids and is guideline-supported for neuropathic pain."
+  },
+  {
+    "id": 85,
+    "question": "Which opioid is most strongly associated with risk of seizures?",
+    "options": ["Hydromorphone", "Morphine", "Tramadol", "Fentanyl"],
+    "answer": "C",
+    "rationale": "Tramadol lowers the seizure threshold, especially at high doses or with interacting drugs."
+  },
+  {
+    "id": 86,
+    "question": "Which statement about COX-2 inhibitors is MOST accurate?",
+    "options": [
+      "No GI risk at all",
+      "Lower endoscopic ulcer risk than nonselective NSAIDs, but still CV and renal risk",
+      "Completely safe in heart disease",
+      "No monitoring required"
+    ],
+    "answer": "B",
+    "rationale": "Celecoxib reduces GI ulcer risk compared with nonselective NSAIDs but retains cardiovascular and renal risks."
+  },
+  {
+    "id": 87,
+    "question": "A patient taking methotrexate is started on ibuprofen. The pharmacist should be concerned about:",
+    "options": [
+      "Reduced methotrexate clearance",
+      "Serotonin syndrome",
+      "Increased blood glucose",
+      "Hypokalemia"
+    ],
+    "answer": "A",
+    "rationale": "NSAIDs can reduce renal clearance of methotrexate, increasing toxicity risk."
+  },
+  {
+    "id": 88,
+    "question": "Which analgesic is preferred for mild pain in a patient with chronic liver disease?",
+    "options": [
+      "High-dose acetaminophen",
+      "Low-dose acetaminophen",
+      "Diclofenac oral",
+      "Ketorolac"
+    ],
+    "answer": "B",
+    "rationale": "If acetaminophen is used in liver disease, it should be at reduced doses with careful monitoring."
+  },
+  {
+    "id": 89,
+    "question": "Which medication requires CYP3A4 dose adjustment or avoidance with strong inhibitors?",
+    "options": ["Ubrogepant", "Acetaminophen", "Ibuprofen", "Gabapentin"],
+    "answer": "A",
+    "rationale": "Ubrogepant is metabolized by CYP3A4; strong inhibitors increase exposure and require dose adjustment."
+  },
+  {
+    "id": 90,
+    "question": "Which adverse effect is most likely with chronic high-dose opioid therapy?",
+    "options": [
+      "Constipation",
+      "Acute liver failure",
+      "Hyperkalemia",
+      "Agranulocytosis"
+    ],
+    "answer": "A",
+    "rationale": "Opioid-induced constipation is common and persistent with chronic use."
+  },
+  {
+    "id": 91,
+    "question": "Which statement about topical capsaicin is correct?",
+    "options": [
+      "Provides immediate relief without burning",
+      "Causes initial burning followed by reduced pain signaling",
+      "Should be applied to broken skin",
+      "Has high systemic absorption"
+    ],
+    "answer": "B",
+    "rationale": "Capsaicin activates TRPV1 receptors causing initial burning, then desensitization and pain relief."
+  },
+  {
+    "id": 92,
+    "question": "A patient with chronic migraine is using triptans on 15 days per month. The best interpretation is:",
+    "options": [
+      "Normal use",
+      "Medication-overuse headache risk",
+      "Need for higher triptan dose only",
+      "Allergy to NSAIDs"
+    ],
+    "answer": "B",
+    "rationale": "Frequent use of acute migraine medications can lead to medication-overuse headache."
+  },
+  {
+    "id": 93,
+    "question": "Which agent is safest for acute migraine in a patient with prior stroke?",
+    "options": ["Sumatriptan", "Ergotamine", "Rimegepant", "High-dose naproxen alone"],
+    "answer": "C",
+    "rationale": "Gepants do not cause vasoconstriction and are safer in patients with cerebrovascular disease."
+  },
+  {
+    "id": 94,
+    "question": "Which lab should be monitored when initiating chronic duloxetine?",
+    "options": ["ALT/AST", "INR", "Serum sodium", "Creatine kinase"],
+    "answer": "A",
+    "rationale": "Duloxetine can rarely cause hepatotoxicity; baseline and symptom-based liver monitoring is reasonable."
+  },
+  {
+    "id": 95,
+    "question": "Which is a major contraindication to tramadol?",
+    "options": [
+      "History of seizures",
+      "Mild hypertension",
+      "Controlled diabetes",
+      "Stable asthma"
+    ],
+    "answer": "A",
+    "rationale": "Tramadol lowers the seizure threshold and should be avoided in seizure disorders."
+  },
+  {
+    "id": 96,
+    "question": "Which medication is most appropriate for acute muscle spasm of the low back (short-term)?",
+    "options": ["Cyclobenzaprine", "Gabapentin", "Amitriptyline", "Methadone"],
+    "answer": "A",
+    "rationale": "Skeletal muscle relaxants like cyclobenzaprine can be useful short-term for acute spasm."
+  },
+  {
+    "id": 97,
+    "question": "Which opioid has the highest risk of neurotoxicity in renal failure?",
+    "options": ["Fentanyl", "Hydromorphone", "Morphine", "Buprenorphine"],
+    "answer": "C",
+    "rationale": "Morphine has active metabolites that accumulate in renal impairment and can cause neurotoxicity."
+  },
+  {
+    "id": 98,
+    "question": "Which is the best first-line for post-herpetic neuralgia?",
+    "options": [
+      "Lidocaine patch",
+      "Ibuprofen",
+      "Prednisone",
+      "Codeine"
+    ],
+    "answer": "A",
+    "rationale": "Topical lidocaine is guideline-supported first-line for localized post-herpetic neuralgia."
+  },
+  {
+    "id": 99,
+    "question": "A patient on chronic NSAIDs develops ankle swelling and rising blood pressure. Most likely cause?",
+    "options": [
+      "Hepatotoxicity",
+      "Sodium and water retention",
+      "Serotonin syndrome",
+      "Hypoglycemia"
+    ],
+    "answer": "B",
+    "rationale": "NSAIDs reduce renal prostaglandins, promoting sodium/water retention and worsening BP."
+  },
+  {
+    "id": 100,
+    "question": "Which statement best describes the goal of multimodal analgesia in surgery?",
+    "options": [
+      "Use only one strong opioid",
+      "Combine agents with different mechanisms to reduce opioid use",
+      "Avoid all medications",
+      "Use only herbal therapy"
+    ],
+    "answer": "B",
+    "rationale": "Multimodal analgesia improves pain control while minimizing opioid exposure and adverse effects."
+  }
+]
+
+
